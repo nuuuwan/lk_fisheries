@@ -2,15 +2,14 @@ import re
 import sys
 from dataclasses import dataclass
 
-from scraper import AbstractDoc, GlobalReadMe
+from scraper import AbstractPDFDoc, GlobalReadMe
 from utils import WWW, Log
 
 log = Log("AnnualStatisticsReports")
 
 
 @dataclass
-class AnnualStatisticsReports(AbstractDoc):
-    url_xlsx: str
+class AnnualStatisticsReports(AbstractPDFDoc):
 
     @classmethod
     def get_doc_class_label(cls) -> str:
@@ -50,15 +49,15 @@ class AnnualStatisticsReports(AbstractDoc):
         for li in ul.find_all("li"):
             a = li.find("a")
             href = a.get("href")
-            assert href.endswith(".xlsx"), href
+            assert href.endswith(".pdf"), href
 
             description = a.text.strip()
-            year = description.split("(")[0].strip()[-4:]
+            year = description.split("[")[0].split("(")[0].strip()[-4:]
             assert year.isdigit(), (year, description)
             date_str = f"{year}-12-31"
             num = cls.clean_description(description)
             lang = "en"
-            url_xlsx = "https://www.fisheries.gov.lk" + href
+            url_pdf = "https://www.fisheries.gov.lk" + href
 
             yield AnnualStatisticsReports(
                 num=num,
@@ -66,7 +65,7 @@ class AnnualStatisticsReports(AbstractDoc):
                 description=description,
                 url_metadata=url_metadata,
                 lang=lang,
-                url_xlsx=url_xlsx,
+                url_pdf=url_pdf,
             )
 
     @classmethod
@@ -82,14 +81,11 @@ class AnnualStatisticsReports(AbstractDoc):
         cls.scrape_all_metadata(max_dt)
         cls.write_all()
         cls.scrape_all_extended_data(max_dt)
-
         cls.build_summary()
         cls.build_doc_class_readme()
+        cls.build_and_upload_to_hugging_face()
 
         if not cls.is_multi_doc():
             GlobalReadMe(
                 {cls.get_repo_name(): [cls.get_doc_class_label()]}
             ).build()
-
-    def scrape_extended_data_for_doc(self):
-        pass
