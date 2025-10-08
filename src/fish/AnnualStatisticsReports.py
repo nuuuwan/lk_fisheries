@@ -1,0 +1,95 @@
+import re
+import sys
+from dataclasses import dataclass
+
+from scraper import AbstractDoc, GlobalReadMe
+from utils import WWW, Log
+
+log = Log("AnnualStatisticsReports")
+
+
+@dataclass
+class AnnualStatisticsReports(AbstractDoc):
+    url_xlsx: str
+
+    @classmethod
+    def get_doc_class_label(cls) -> str:
+        return "lk_fisheries_annual_statistics_reports"
+
+    @classmethod
+    def get_doc_class_description(cls) -> str:
+        return (
+            "Annual Fisheries Statistics Reports of"
+            + " the Ministry of Fisheries,Aquatic and Ocean Resources,"
+            + " Sri Lanka"
+        )
+
+    @classmethod
+    def get_doc_class_emoji(cls) -> str:
+        return "🐟"
+
+    @classmethod
+    def clean_description(cls, description: str) -> str:
+        # remove non-alphanumeric and space
+        description = re.sub(r"[^a-zA-Z0-9\s]", "", description)
+        # replace multiple spaces with single space
+        description = re.sub(r"\s+", " ", description)
+        # replace space with "-"
+        description = description.replace(" ", "-")
+        return description.lower()
+
+    @classmethod
+    def gen_docs(cls):
+        url_metadata = (
+            "https://www.fisheries.gov.lk"
+            + "/web/index.php/en/statistics/annual-statistics-reports"
+        )
+        soup = WWW(url_metadata).soup
+
+        ul = soup.find("ul", class_="pdf")
+        for li in ul.find_all("li"):
+            a = li.find("a")
+            href = a.get("href")
+            assert href.endswith(".xlsx"), href
+
+            description = a.text.strip()
+            year = description.split("(")[0].strip()[-4:]
+            assert year.isdigit(), (year, description)
+            date_str = f"{year}-12-31"
+            num = cls.clean_description(description)
+            lang = "en"
+            url_xlsx = "https://www.fisheries.gov.lk" + href
+
+            yield AnnualStatisticsReports(
+                num=num,
+                date_str=date_str,
+                description=description,
+                url_metadata=url_metadata,
+                lang=lang,
+                url_xlsx=url_xlsx,
+            )
+
+    @classmethod
+    def run_pipeline(cls, max_dt=None):
+        max_dt = (
+            max_dt
+            or (float(sys.argv[2]) if len(sys.argv) > 2 else None)
+            or cls.MAX_DT
+        )
+        log.debug(f"{max_dt=}s")
+
+        cls.cleanup_all()
+        cls.scrape_all_metadata(max_dt)
+        cls.write_all()
+        cls.scrape_all_extended_data(max_dt)
+
+        cls.build_summary()
+        cls.build_doc_class_readme()
+
+        if not cls.is_multi_doc():
+            GlobalReadMe(
+                {cls.get_repo_name(): [cls.get_doc_class_label()]}
+            ).build()
+
+    def scrape_extended_data_for_doc(self):
+        pass
