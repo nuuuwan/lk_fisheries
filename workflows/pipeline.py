@@ -2,8 +2,12 @@ import sys
 
 from utils import Log
 
-from fish import (AnnualStatisticsReports, MonthlyFishProductionReports,
-                  WeeklyFishPricesReports)
+from fish import (
+    AnnualStatisticsReports,
+    MonthlyExportImportReports,
+    MonthlyFishProductionReports,
+    WeeklyFishPricesReports,
+)
 
 log = Log("pipeline")
 
@@ -14,6 +18,7 @@ if __name__ == "__main__":
         AnnualStatisticsReports,
         MonthlyFishProductionReports,
         WeeklyFishPricesReports,
+        MonthlyExportImportReports,
     ]:
         if doc_class.get_doc_class_label() == doc_class_label:
             doc_class.run_pipeline()
