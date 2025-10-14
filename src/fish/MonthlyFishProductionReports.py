@@ -1,24 +1,22 @@
 from dataclasses import dataclass
 
-from scraper import AbstractPDFDoc
+from scraper import AbstractExcelSpreadsheet
 from utils import Log
 
-from fish.CommonMixin import CommonMixin
-
-log = Log("AnnualStatisticsReports")
+log = Log("MonthlyFishProductionReports")
 
 
 @dataclass
-class AnnualStatisticsReports(AbstractPDFDoc, CommonMixin):
+class MonthlyFishProductionReports(AbstractExcelSpreadsheet):
 
     @classmethod
     def get_doc_class_label(cls) -> str:
-        return "lk_fisheries_annual_statistics_reports"
+        return "lk_fisheries_monthly_fish_production_reports"
 
     @classmethod
     def get_doc_class_description(cls) -> str:
         return (
-            "Annual Fisheries Statistics Reports of"
+            "Monthly Fish Production Reports of"
             + " the Ministry of Fisheries,Aquatic and Ocean Resources,"
             + " Sri Lanka"
         )
@@ -31,9 +29,9 @@ class AnnualStatisticsReports(AbstractPDFDoc, CommonMixin):
     def get_url_metadata(cls):
         return (
             "https://www.fisheries.gov.lk"
-            + "/web/index.php/en/statistics/annual-statistics-reports"
+            + "/web/index.php/en/statistics/monthly-fish-production"
         )
 
     @classmethod
     def get_ul_class(cls):
-        return "pdf"
+        return "excel"
