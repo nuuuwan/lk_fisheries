@@ -2,13 +2,14 @@
   "doc_class_label": "lk_fisheries_monthly_fish_production_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Monthly Fish Production Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2025-10-14 11:06:09",
+  "time_updated": "2025-10-14 11:54:12",
   "n_docs": 104,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 104,
+  "n_docs_with_excel": 8,
   "date_str_min": "2019-01-01",
   "date_str_max": "2025-12-31",
-  "dataset_size": 477530,
+  "dataset_size": 962623,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
