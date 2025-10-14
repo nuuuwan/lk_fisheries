@@ -18,32 +18,44 @@ class CommonMixin:
         description = description.replace(" ", "-")
         return description.lower()
 
+    @staticmethod
+    def parse_year_from_description(description: str) -> str:
+        x = description
+        for phrase in ["[", "(", "PROVISIONAL", "EXCEL"]:
+            if phrase in x:
+                x = x.split(phrase)[0]
+
+        x = x.strip()
+        year = x[-4:]
+        assert year.isdigit(), (year, description)
+        return year
+
     @classmethod
     def gen_docs(cls):
         url_metadata = cls.get_url_metadata()
         soup = WWW(url_metadata).soup
 
-        ul = soup.find("ul", class_=cls.get_ul_class())
-        for li in ul.find_all("li"):
-            a = li.find("a")
-            href = a.get("href")
+        for ul in soup.find_all("ul", class_=cls.get_ul_class()):
+            for li in ul.find_all("li"):
+                a = li.find("a")
+                href = a.get("href")
 
-            description = a.text.strip()
-            year = description.split("[")[0].split("(")[0].strip()[-4:]
-            assert year.isdigit(), (year, description)
-            date_str = f"{year}-12-31"
-            num = cls.clean_description(description)
-            lang = "en"
-            url_doc = "https://www.fisheries.gov.lk" + href
+                description = a.text.strip()
+                year = cls.parse_year_from_description(description)
+                date_str = f"{year}-12-31"
+                num = cls.clean_description(description)
+                lang = "en"
+                url_doc = "https://www.fisheries.gov.lk" + href
 
-            yield cls(
-                num=num,
-                date_str=date_str,
-                description=description,
-                url_metadata=url_metadata,
-                lang=lang,
-                url_pdf=url_doc,
-            )
+                d = dict(
+                    num=num,
+                    date_str=date_str,
+                    description=description,
+                    url_metadata=url_metadata,
+                    lang=lang,
+                )
+                d["url_" + cls.get_ul_class()] = url_doc
+                yield cls(**d)
 
     @classmethod
     def run_pipeline(cls, max_dt=None):
