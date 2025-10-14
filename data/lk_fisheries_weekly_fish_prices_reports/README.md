@@ -1,14 +1,14 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Weekly Fish Prices Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_12:22:08-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_12:39:15-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports)
 
 Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**248** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports) (**11.6 MB**), from **2019-01-01** to **2025-09-22**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**248** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports) (**16.8 MB**), from **2019-01-01** to **2025-09-22**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
-- In **JSON**, **TXT** (3%), **Excel** (3%) & **🤗 Hugging Face** (3%)
+- In **JSON**, **TXT** (6%), **Excel** (6%) & **🤗 Hugging Face** (6%)
 
 - In **English**
 
