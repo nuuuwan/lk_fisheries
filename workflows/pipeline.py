@@ -2,14 +2,14 @@ import sys
 
 from utils import Log
 
-from fish import AnnualStatisticsReports
+from fish import AnnualStatisticsReports, MonthlyFishProductionReports
 
 log = Log("pipeline")
 
 if __name__ == "__main__":
     doc_class_label = sys.argv[1]
     log.debug(f"{doc_class_label=}")
-    for doc_class in [AnnualStatisticsReports]:
+    for doc_class in [AnnualStatisticsReports, MonthlyFishProductionReports]:
         if doc_class.get_doc_class_label() == doc_class_label:
             doc_class.run_pipeline()
             sys.exit(0)
