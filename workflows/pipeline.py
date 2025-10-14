@@ -2,11 +2,8 @@ import sys
 
 from utils import Log
 
-from fish import (
-    AnnualStatisticsReports,
-    MonthlyFishProductionReports,
-    WeeklyFishPricesReports,
-)
+from fish import (AnnualStatisticsReports, MonthlyFishProductionReports,
+                  WeeklyFishPricesReports)
 
 log = Log("pipeline")
 

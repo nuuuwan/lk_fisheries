@@ -4,3 +4,4 @@
 from fish.AnnualStatisticsReports import AnnualStatisticsReports
 from fish.CommonMixin import CommonMixin
 from fish.MonthlyFishProductionReports import MonthlyFishProductionReports
+from fish.WeeklyFishPricesReports import WeeklyFishPricesReports
