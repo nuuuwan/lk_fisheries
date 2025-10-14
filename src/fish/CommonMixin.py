@@ -13,6 +13,8 @@ class CommonMixin:
     def clean_description_for_time(description: str) -> str:
         x = description
 
+        x = x.replace("\xa0", " ")
+
         for phrase in ["[", "(", "PROVISIONAL", "EXCEL"]:
             if phrase in x:
                 x = x.split(phrase)[0]
