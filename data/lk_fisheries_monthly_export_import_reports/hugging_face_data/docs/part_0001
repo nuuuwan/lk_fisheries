@@ -1,0 +1,642 @@
+[
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2019-01-01-export-and-import-of-fi-0dfa1ed7",
+    "num": "export-and-import-of-fish-january-2019",
+    "date_str": "2019-01-01",
+    "description": "Export and Import of Fish - January 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1_Export_and_Import_of_Fish_-_2019_January.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2019-03-01-export-and-import-of-fi-1f49bcda",
+    "num": "export-and-import-of-fish-march-2019",
+    "date_str": "2019-03-01",
+    "description": "Export and Import of Fish - March 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1_Export_and_Import_of_Fish_-_2019_January.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2019-09-01-export-and-import-of-fi-83987d1e",
+    "num": "export-and-import-of-fish-september-2019",
+    "date_str": "2019-09-01",
+    "description": "Export and Import of Fish - September 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/EXPORT_IMPORT_REPORT_-_2019_SEPTEMBER_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2019-11-01-export-and-import-of-fi-2f0e0744",
+    "num": "export-and-import-of-fish-november-2019",
+    "date_str": "2019-11-01",
+    "description": "Export and Import of Fish - November 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/EXPORT_IMPORT_REPORT_-_2019_NOVEMBER.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2020-03-01-export-and-import-of-fi-b9ff715c",
+    "num": "export-and-import-of-fish-march-2020",
+    "date_str": "2020-03-01",
+    "description": "Export and Import of Fish - March 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/Export_March.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2020-06-01-export-and-import-of-fi-9b3ac9a3",
+    "num": "export-and-import-of-fish-june-2020",
+    "date_str": "2020-06-01",
+    "description": "Export and Import of Fish - June 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/Export_June_-_Copy.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2020-07-01-export-and-import-of-fi-f9fd3002",
+    "num": "export-and-import-of-fish-july-2020",
+    "date_str": "2020-07-01",
+    "description": "Export and Import of Fish - July 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/July.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2020-09-01-export-and-import-of-fi-4f2a6c26",
+    "num": "export-and-import-of-fish-september-2020",
+    "date_str": "2020-09-01",
+    "description": "Export and Import of Fish - September 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/EXPORT_IMPORT_REPORT_-_2020_SEP_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2020-10-01-export-and-import-of-fi-8d6a9d55",
+    "num": "export-and-import-of-fish-october-2020",
+    "date_str": "2020-10-01",
+    "description": "Export and Import of Fish - October 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_IMPORT_REPORT_-_2020_OCT.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2020-11-01-export-and-import-of-fi-082110b4",
+    "num": "export-and-import-of-fish-november-2020",
+    "date_str": "2020-11-01",
+    "description": "Export and Import of Fish - November 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_IMPORT_REPORT_-_2020_NOV.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-01-01-export-and-import-of-fi-69ecc829",
+    "num": "export-and-import-of-fish-january-2021",
+    "date_str": "2021-01-01",
+    "description": "Export and Import of Fish - January 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_IMPORT_REPORT_-_2021_JANUARY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-02-01-export-and-import-of-fi-c8d26e84",
+    "num": "export-and-import-of-fish-february-2021",
+    "date_str": "2021-02-01",
+    "description": "Export and Import of Fish - February 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_IMPORT_REPORT_-_2021_FEBRUARY_REVISED.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-03-01-export-and-import-of-fi-4f3ebd50",
+    "num": "export-and-import-of-fish-march-2021",
+    "date_str": "2021-03-01",
+    "description": "Export and Import of Fish - March 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_IMPORT_REPORT_-_2021_MARCH_PRELIMINARY_3.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-04-01-export-and-import-of-fi-5078ed58",
+    "num": "export-and-import-of-fish-april-2021",
+    "date_str": "2021-04-01",
+    "description": "Export and Import of Fish - April 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_and_IMPORT_REPORT_-_2021_APRIL.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-05-01-export-and-import-of-fi-efeae431",
+    "num": "export-and-import-of-fish-may-2021",
+    "date_str": "2021-05-01",
+    "description": "Export and Import of Fish - May 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_and_IMPORT_REPORT_-_2021_MAY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-06-01-export-and-import-of-fi-24c44f8e",
+    "num": "export-and-import-of-fish-june-2021",
+    "date_str": "2021-06-01",
+    "description": "Export and Import of Fish - June 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_and_IMPORT_REPORT_-_2021_JUNE.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-07-01-export-and-import-of-fi-0d208fb6",
+    "num": "export-and-import-of-fish-july-2021",
+    "date_str": "2021-07-01",
+    "description": "Export and Import of Fish - July 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_and_IMPORT_REPORT_-_2021_JULY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-08-01-export-and-import-of-fi-b5667755",
+    "num": "export-and-import-of-fish-august-2021",
+    "date_str": "2021-08-01",
+    "description": "Export and Import of Fish - August 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_and_IMPORT_REPORT_-_2021_AUGUST.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-09-01-export-and-import-of-fi-7d372708",
+    "num": "export-and-import-of-fish-september-2021",
+    "date_str": "2021-09-01",
+    "description": "Export and Import of Fish - September 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_and_IMPORT_REPORT_-_2021_SEPTEMBER.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-10-01-export-and-import-of-fi-09f6c8fc",
+    "num": "export-and-import-of-fish-october-2021",
+    "date_str": "2021-10-01",
+    "description": "Export and Import of Fish - October 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_and_IMPORT_REPORT_-_2021_OCTOBER.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2021-11-01-export-and-import-of-fi-462ba383",
+    "num": "export-and-import-of-fish-november-2021",
+    "date_str": "2021-11-01",
+    "description": "Export and Import of Fish - November 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/EXPORT_and_IMPORT_REPORT_-_2021_NOVEMBER.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-01-01-export-and-import-of-fi-33d5f80c",
+    "num": "export-and-import-of-fish-january-2022",
+    "date_str": "2022-01-01",
+    "description": "Export and Import of Fish - January 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/combinepdf.pdf"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-02-01-export-and-import-of-fi-872a7fe8",
+    "num": "export-and-import-of-fish-february-2022",
+    "date_str": "2022-02-01",
+    "description": "Export and Import of Fish - February 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_FEBRUARY_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-03-01-export-and-import-of-fi-0ca73221",
+    "num": "export-and-import-of-fish-march-2022",
+    "date_str": "2022-03-01",
+    "description": "Export and Import of Fish - March 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_MARCH.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-04-01-export-and-import-of-fi-b7ad9791",
+    "num": "export-and-import-of-fish-april-2022",
+    "date_str": "2022-04-01",
+    "description": "Export and Import of Fish - April 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_APRIL.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-05-01-export-and-import-of-fi-fbb6c177",
+    "num": "export-and-import-of-fish-may-2022",
+    "date_str": "2022-05-01",
+    "description": "Export and Import of Fish - May 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_MAY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-06-01-export-and-import-of-fi-5b846ecd",
+    "num": "export-and-import-of-fish-june-2022",
+    "date_str": "2022-06-01",
+    "description": "Export and Import of Fish - June 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_JUNE.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-07-01-export-and-import-of-fi-449b156d",
+    "num": "export-and-import-of-fish-july-2022",
+    "date_str": "2022-07-01",
+    "description": "Export and Import of Fish - July 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_JULY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-08-01-export-and-import-of-fi-a6b6277b",
+    "num": "export-and-import-of-fish-august-2022",
+    "date_str": "2022-08-01",
+    "description": "Export and Import of Fish - August 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_AUGUST.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-09-01-export-and-import-of-fi-7aa31335",
+    "num": "export-and-import-of-fish-september-2022",
+    "date_str": "2022-09-01",
+    "description": "Export and Import of Fish - September 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_SEPTEMBER_REVISED.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-10-01-export-and-import-of-fi-de854e94",
+    "num": "export-and-import-of-fish-october-2022",
+    "date_str": "2022-10-01",
+    "description": "Export and Import of Fish - October 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_OCT.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2022-11-01-export-and-import-of-fi-ef648649",
+    "num": "export-and-import-of-fish-november-2022",
+    "date_str": "2022-11-01",
+    "description": "Export and Import of Fish - November 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2022/EXPORT_and_IMPORT_REPORT_-_2022_NOVEMBER.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-01-01-export-and-import-of-fi-4a10991b",
+    "num": "export-and-import-of-fish-january-2023",
+    "date_str": "2023-01-01",
+    "description": "Export and Import of Fish - January 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_JANUARY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-02-01-export-and-import-of-fi-b39c4fc6",
+    "num": "export-and-import-of-fish-february-2023",
+    "date_str": "2023-02-01",
+    "description": "Export and Import of Fish - February 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_FEBRUARY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-03-01-export-and-import-of-fi-bca7e4db",
+    "num": "export-and-import-of-fish-march-2023",
+    "date_str": "2023-03-01",
+    "description": "Export and Import of Fish - March 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_MARCH.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-04-01-export-and-import-of-fi-35a2d01a",
+    "num": "export-and-import-of-fish-april-2023",
+    "date_str": "2023-04-01",
+    "description": "Export and Import of Fish - April 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_APRIL.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-05-01-export-and-import-of-fi-90667f0d",
+    "num": "export-and-import-of-fish-may-2023",
+    "date_str": "2023-05-01",
+    "description": "Export and Import of Fish - May 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_MAY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-06-01-export-and-import-of-fi-a6ad71a4",
+    "num": "export-and-import-of-fish-june-2023",
+    "date_str": "2023-06-01",
+    "description": "Export and Import of Fish - June 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_JUNE.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-07-01-export-and-import-of-fi-15d539ec",
+    "num": "export-and-import-of-fish-july-2023excel-666-kb",
+    "date_str": "2023-07-01",
+    "description": "Export and Import of Fish - July 2023[EXCEL - 666 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_JULY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-08-01-export-and-import-of-fi-ec718aff",
+    "num": "export-and-import-of-fish-august-2023excel-667-kb",
+    "date_str": "2023-08-01",
+    "description": "Export and Import of Fish - August 2023[EXCEL - 667 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_AUGUST.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-09-01-export-and-import-of-fi-7f636412",
+    "num": "export-and-import-of-fish-september-2023excel-668-kb",
+    "date_str": "2023-09-01",
+    "description": "Export and Import of Fish - September 2023[EXCEL - 668 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_SEPTEMBER_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-10-01-export-and-import-of-fi-29c702d0",
+    "num": "export-and-import-of-fish-october-2023excel-669-kb",
+    "date_str": "2023-10-01",
+    "description": "Export and Import of Fish - October 2023[EXCEL - 669 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_OCTOBER.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-11-01-export-and-import-of-fi-a03e4b3a",
+    "num": "export-and-import-of-fish-november-2023excel-670-kb",
+    "date_str": "2023-11-01",
+    "description": "Export and Import of Fish - November 2023[EXCEL - 670 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_NOVEMBER.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2023-12-01-export-and-import-of-fi-6864c3b0",
+    "num": "export-and-import-of-fish-december-2023excel-671-kb",
+    "date_str": "2023-12-01",
+    "description": "Export and Import of Fish - December 2023[EXCEL - 671 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2023/EXPORT_and_IMPORT_REPORT_-_2023_DECEMBER.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-01-01-export-and-import-of-fi-35ef99ee",
+    "num": "export-and-import-of-fish-january-2024pdf-683-kb",
+    "date_str": "2024-01-01",
+    "description": "Export and Import of Fish - January 2024[PDF - 683 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_JANUARY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-02-01-export-and-import-of-fi-dc99cf2d",
+    "num": "export-and-import-of-fish-february-2024excel-681-kb",
+    "date_str": "2024-02-01",
+    "description": "Export and Import of Fish - February 2024[EXCEL - 681 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_FEBRUARY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-03-01-export-and-import-of-fi-d9b56e6a",
+    "num": "export-and-import-of-fish-march-2024excel-684-kb",
+    "date_str": "2024-03-01",
+    "description": "Export and Import of Fish - March 2024[EXCEL - 684 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_MARCH.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-04-01-export-and-import-of-fi-630ae447",
+    "num": "export-and-import-of-fish-april-2024excel-686-kb",
+    "date_str": "2024-04-01",
+    "description": "Export and Import of Fish - April 2024[EXCEL - 686 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_APRIL.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-05-01-export-and-import-of-fi-e09c6a01",
+    "num": "export-and-import-of-fish-may-2024excel-687-kb",
+    "date_str": "2024-05-01",
+    "description": "Export and Import of Fish - May 2024[EXCEL - 687 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_MAY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-06-01-export-and-import-of-fi-4f804c58",
+    "num": "export-and-import-of-fish-june-2024excel-115-mb",
+    "date_str": "2024-06-01",
+    "description": "Export and Import of Fish - June 2024[EXCEL - 1.15 MB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_JUNE.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-07-01-export-and-import-of-fi-00b7cb86",
+    "num": "export-and-import-of-fish-july-2024excel-109-mb",
+    "date_str": "2024-07-01",
+    "description": "Export and Import of Fish - July 2024[EXCEL - 1.09 MB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_JULY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-08-01-export-and-import-of-fi-a0725d09",
+    "num": "export-and-import-of-fish-august-2024excel-721-kb",
+    "date_str": "2024-08-01",
+    "description": "Export and Import of Fish - August 2024[EXCEL - 721 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_AUGUST_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-09-01-export-and-import-of-fi-d4d81a3b",
+    "num": "export-and-import-of-fish-september-2024excel-896-kb",
+    "date_str": "2024-09-01",
+    "description": "Export and Import of Fish - September 2024[EXCEL - 896 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_SEPTEMBER_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-10-01-export-and-import-of-fi-c3e3e508",
+    "num": "export-and-import-of-fish-october-2024excel-403-kb",
+    "date_str": "2024-10-01",
+    "description": "Export and Import of Fish - October 2024[EXCEL - 403 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_OCTOBER_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-11-01-export-and-import-of-fi-d6271a61",
+    "num": "export-and-import-of-fish-november-2024excel-404-kb",
+    "date_str": "2024-11-01",
+    "description": "Export and Import of Fish - November 2024[EXCEL - 404 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_-_2024_NOVEMBER_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2024-12-01-export-and-import-of-fi-b2245f68",
+    "num": "export-and-import-of-fish-december-2024excel-383-kb",
+    "date_str": "2024-12-01",
+    "description": "Export and Import of Fish - December 2024[EXCEL - 383 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2024/EXPORT_and_IMPORT_REPORT_2024_DECEMBER.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-01-01-export-and-import-of-fi-08acc4f5",
+    "num": "export-and-import-of-fish-january-2025excel-798-kb",
+    "date_str": "2025-01-01",
+    "description": "Export and Import of Fish - January 2025[EXCEL - 798 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_JANUARY_new.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-02-01-export-and-import-of-fi-ce507561",
+    "num": "export-and-import-of-fish-february-2025excel-800-kb",
+    "date_str": "2025-02-01",
+    "description": "Export and Import of Fish - February 2025[EXCEL - 800 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_FEBRUARY.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-03-01-export-and-import-of-fi-b3bc4ad4",
+    "num": "export-and-import-of-fish-march-2025excel-801-kb",
+    "date_str": "2025-03-01",
+    "description": "Export and Import of Fish - March 2025[EXCEL - 801 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_MARCH.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-04-01-export-and-import-of-fi-3c64358c",
+    "num": "export-and-import-of-fish-april-2025excel-414-kb",
+    "date_str": "2025-04-01",
+    "description": "Export and Import of Fish - April 2025[EXCEL - 414 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_APRIL_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-05-01-export-and-import-of-fi-009e5847",
+    "num": "export-and-import-of-fish-may-2025excel-608-kb",
+    "date_str": "2025-05-01",
+    "description": "Export and Import of Fish - May 2025[EXCEL - 608 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_2025_MAY.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-06-01-export-and-import-of-fi-943170a6",
+    "num": "export-and-import-of-fish-june-2025excel-806-kb",
+    "date_str": "2025-06-01",
+    "description": "Export and Import of Fish - June 2025[EXCEL - 806 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_JUNE.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-07-01-export-and-import-of-fi-63875334",
+    "num": "export-and-import-of-fish-july-2025excel-810-kb",
+    "date_str": "2025-07-01",
+    "description": "Export and Import of Fish - July 2025[EXCEL - 810 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_JULY_com.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-08-01-export-and-import-of-fi-098e6ee1",
+    "num": "export-and-import-of-fish-august-2025excel-423-kb",
+    "date_str": "2025-08-01",
+    "description": "Export and Import of Fish - August 2025[EXCEL - 423 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_2025_AUGUST_1.xls"
+  }
+]
