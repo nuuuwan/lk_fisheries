@@ -1,0 +1,10 @@
+{
+  "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+  "doc_id": "2023-06-01-1st-week-june-2023",
+  "num": "1st-week-june-2023",
+  "date_str": "2023-06-01",
+  "description": "1st Week June 2023",
+  "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+  "lang": "en",
+  "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/june_1st_week_2023.xlsx"
+}

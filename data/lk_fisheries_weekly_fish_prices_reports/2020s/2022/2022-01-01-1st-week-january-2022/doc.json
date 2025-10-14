@@ -1,0 +1,10 @@
+{
+  "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+  "doc_id": "2022-01-01-1st-week-january-2022",
+  "num": "1st-week-january-2022",
+  "date_str": "2022-01-01",
+  "description": "1st Week January 2022",
+  "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+  "lang": "en",
+  "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/jan.1st_week_2022.xlsx"
+}

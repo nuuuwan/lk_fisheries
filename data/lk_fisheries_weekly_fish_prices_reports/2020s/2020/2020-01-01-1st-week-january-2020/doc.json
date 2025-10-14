@@ -1,0 +1,10 @@
+{
+  "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+  "doc_id": "2020-01-01-1st-week-january-2020",
+  "num": "1st-week-january-2020",
+  "date_str": "2020-01-01",
+  "description": "1st Week January 2020",
+  "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+  "lang": "en",
+  "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/1st_week_January_2020.xlsx"
+}

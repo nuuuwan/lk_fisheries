@@ -1,0 +1,2482 @@
+[
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-01-01-1st-week-january-2019",
+    "num": "1st-week-january-2019",
+    "date_str": "2019-01-01",
+    "description": "1st Week January 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_Week_January_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-01-08-2nd-week-january-2019",
+    "num": "2nd-week-january-2019",
+    "date_str": "2019-01-08",
+    "description": "2nd Week January 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_Week_January_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-01-15-3rd-week-january-2019",
+    "num": "3rd-week-january-2019",
+    "date_str": "2019-01-15",
+    "description": "3rd Week January 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_Week_January_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-01-22-4th-week-january-2019",
+    "num": "4th-week-january-2019",
+    "date_str": "2019-01-22",
+    "description": "4th Week January 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_Week_January_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-02-01-1st-week-february-2019",
+    "num": "1st-week-february-2019",
+    "date_str": "2019-02-01",
+    "description": "1st Week February 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st-Week-February-2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-02-08-2nd-week-february-2019",
+    "num": "2nd-week-february-2019",
+    "date_str": "2019-02-08",
+    "description": "2nd Week February 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd-week-February-2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-02-15-3rd-week-february-2019",
+    "num": "3rd-week-february-2019",
+    "date_str": "2019-02-15",
+    "description": "3rd Week February 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd-Week-February-2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-02-22-4th-week-february-2019",
+    "num": "4th-week-february-2019",
+    "date_str": "2019-02-22",
+    "description": "4th Week February 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_Week_February_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-03-01-1st-week-march-2019",
+    "num": "1st-week-march-2019",
+    "date_str": "2019-03-01",
+    "description": "1st Week March 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_Week_March_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-03-08-2nd-week-march-2019",
+    "num": "2nd-week-march-2019",
+    "date_str": "2019-03-08",
+    "description": "2nd Week March 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_week_March_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-03-15-3rd-week-march-2019",
+    "num": "3rd-week-march-2019",
+    "date_str": "2019-03-15",
+    "description": "3rd Week March 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_week_March_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-03-22-4th-week-march-2019",
+    "num": "4th-week-march-2019",
+    "date_str": "2019-03-22",
+    "description": "4th Week March 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_Week_March_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-04-01-1st-week-april-2019",
+    "num": "1st-week-april-2019",
+    "date_str": "2019-04-01",
+    "description": "1st Week April 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_Week_April_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-04-08-2nd-week-april-2019",
+    "num": "2nd-week-april-2019",
+    "date_str": "2019-04-08",
+    "description": "2nd Week April 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_Week_April_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-04-15-3rd-week-april-2019",
+    "num": "3rd-week-april-2019",
+    "date_str": "2019-04-15",
+    "description": "3rd Week April 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_Week_April_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-04-22-4th-week-april-2019",
+    "num": "4th-week-april-2019",
+    "date_str": "2019-04-22",
+    "description": "4th Week April 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_Week_April_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-05-01-1st-week-may-2019",
+    "num": "1st-week-may-2019",
+    "date_str": "2019-05-01",
+    "description": "1st Week May 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_Week_May_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-05-08-2nd-week-may-2019",
+    "num": "2nd-week-may-2019",
+    "date_str": "2019-05-08",
+    "description": "2nd Week May 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_Week_May_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-05-15-3rd-week-may-2019",
+    "num": "3rd-week-may-2019",
+    "date_str": "2019-05-15",
+    "description": "3rd Week May 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_Week_May_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-05-22-4th-week-may-2019",
+    "num": "4th-week-may-2019",
+    "date_str": "2019-05-22",
+    "description": "4th Week May 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_Week_May_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-06-01-1st-week-june-2019",
+    "num": "1st-week-june-2019",
+    "date_str": "2019-06-01",
+    "description": "1st Week June 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_Week_June_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-06-08-2nd-week-june-2019",
+    "num": "2nd-week-june-2019",
+    "date_str": "2019-06-08",
+    "description": "2nd Week June 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_Week_June_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-06-15-3rd-week-june-2019",
+    "num": "3rd-week-june-2019",
+    "date_str": "2019-06-15",
+    "description": "3rd Week June 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_Week_June_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-06-22-4th-week-june-2019",
+    "num": "4th-week-june-2019",
+    "date_str": "2019-06-22",
+    "description": "4th Week June 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_Week_June_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-07-01-1st-week-july-2019",
+    "num": "1st-week-july-2019",
+    "date_str": "2019-07-01",
+    "description": "1st Week July 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_week_July_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-07-08-2nd-week-july-2019",
+    "num": "2nd-week-july-2019",
+    "date_str": "2019-07-08",
+    "description": "2nd Week July 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_week_July_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-07-15-3rd-week-july-2019",
+    "num": "3rd-week-july-2019",
+    "date_str": "2019-07-15",
+    "description": "3rd Week July 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_week_July_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-07-22-4th-week-july-2019",
+    "num": "4th-week-july-2019",
+    "date_str": "2019-07-22",
+    "description": "4th Week July 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_week_July_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-08-01-1st-week-august-2019",
+    "num": "1st-week-august-2019",
+    "date_str": "2019-08-01",
+    "description": "1st Week August 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_week_August_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-08-08-2nd-week-august-2019",
+    "num": "2nd-week-august-2019",
+    "date_str": "2019-08-08",
+    "description": "2nd Week August 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_week_August_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-08-15-3rd-week-august-2019",
+    "num": "3rd-week-august-2019",
+    "date_str": "2019-08-15",
+    "description": "3rd Week August 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_week_August_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-08-22-4th-week-august-2019",
+    "num": "4th-week-august-2019",
+    "date_str": "2019-08-22",
+    "description": "4th Week August 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_week_August_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-09-01-1st-week-september-2019",
+    "num": "1st-week-september-2019",
+    "date_str": "2019-09-01",
+    "description": "1st Week September 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_week_September_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-09-08-2nd-week-september-2019",
+    "num": "2nd-week-september-2019",
+    "date_str": "2019-09-08",
+    "description": "2nd Week September 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_week_September_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-09-15-3rd-week-september-2019",
+    "num": "3rd-week-september-2019",
+    "date_str": "2019-09-15",
+    "description": "3rd Week September 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_week_September_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-09-22-4th-week-september-2019",
+    "num": "4th-week-september-2019",
+    "date_str": "2019-09-22",
+    "description": "4th Week September 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_week_September_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-10-01-1st-week-october-2019",
+    "num": "1st-week-october-2019",
+    "date_str": "2019-10-01",
+    "description": "1st Week October 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_week_october_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-10-08-2nd-week-october-2019",
+    "num": "2nd-week-october-2019",
+    "date_str": "2019-10-08",
+    "description": "2nd Week October 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_week_October_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-10-15-3rd-week-october-2019",
+    "num": "3rd-week-october-2019",
+    "date_str": "2019-10-15",
+    "description": "3rd Week October 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_week_October_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-10-22-4th-week-october-2019",
+    "num": "4th-week-october-2019",
+    "date_str": "2019-10-22",
+    "description": "4th Week October 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_week_October_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-11-01-1st-week-november-2019",
+    "num": "1st-week-november-2019",
+    "date_str": "2019-11-01",
+    "description": "1st Week November 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_week_November_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-11-08-2nd-week-november-2019",
+    "num": "2nd-week-november-2019",
+    "date_str": "2019-11-08",
+    "description": "2nd Week November 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2nd_week_November_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-11-15-3rd-week-november-2019",
+    "num": "3rd-week-november-2019",
+    "date_str": "2019-11-15",
+    "description": "3rd Week November 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_week_November_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-11-22-4th-week-november-2019",
+    "num": "4th-week-november-2019",
+    "date_str": "2019-11-22",
+    "description": "4th Week November 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_week_November_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-12-01-1st-week-december-2019",
+    "num": "1st-week-december-2019",
+    "date_str": "2019-12-01",
+    "description": "1st Week December 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/1st_week_December_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2019-12-22-4th-week-december-2019",
+    "num": "4th-week-december-2019",
+    "date_str": "2019-12-22",
+    "description": "4th Week December 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_week_December_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-01-01-1st-week-january-2020",
+    "num": "1st-week-january-2020",
+    "date_str": "2020-01-01",
+    "description": "1st Week January 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/1st_week_January_2020.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-01-08-2nd-week-january-2020",
+    "num": "2nd-week-january-2020",
+    "date_str": "2020-01-08",
+    "description": "2nd Week January 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/2nd_week_January_2020.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-01-15-3rd-week-january-2020",
+    "num": "3rd-week-january-2020",
+    "date_str": "2020-01-15",
+    "description": "3rd Week January 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/3rd_week_January_2020.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-01-22-4th-week-january-2020",
+    "num": "4th-week-january-2020",
+    "date_str": "2020-01-22",
+    "description": "4th Week January 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/4th_week_January_2020.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-02-01-1st-week-february-2020",
+    "num": "1st-week-february-2020",
+    "date_str": "2020-02-01",
+    "description": "1st Week February 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/1st_week_February_2020.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-09-01-1st-week-september-2020",
+    "num": "1st-week-september-2020",
+    "date_str": "2020-09-01",
+    "description": "1st Week September 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/1st_week-_SEPTEMBER02020.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-09-08-2nd-week-september-2020",
+    "num": "2nd-week-september-2020",
+    "date_str": "2020-09-08",
+    "description": "2nd Week September 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/2nd_WEEK_sep.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-09-15-3rd-week-september-2020",
+    "num": "3rd-week-september-2020",
+    "date_str": "2020-09-15",
+    "description": "3rd Week September 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/3rd_week.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2020-09-22-4th-week-september-2020",
+    "num": "4th-week-september-2020",
+    "date_str": "2020-09-22",
+    "description": "4th Week September 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/4TH_WEEK.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-08-08-2nd-week-august-2021",
+    "num": "2nd-week-august-2021",
+    "date_str": "2021-08-08",
+    "description": "2nd Week August 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Aug_2nd_week_2021.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-08-15-3rd-week-august-2021",
+    "num": "3rd-week-august-2021",
+    "date_str": "2021-08-15",
+    "description": "3rd Week August 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Aug_3rd_week_2021.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-08-22-4th-week-august-2021",
+    "num": "4th-week-august-2021",
+    "date_str": "2021-08-22",
+    "description": "4th Week August 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Aug_4th_week_2021.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-09-01-1st-week-september-2021",
+    "num": "1st-week-september-2021",
+    "date_str": "2021-09-01",
+    "description": "1st Week September 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Sep1st_week_2021.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-09-08-2nd-week-september-2021",
+    "num": "2nd-week-september-2021",
+    "date_str": "2021-09-08",
+    "description": "2nd Week September 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Sep2nd_week_2021.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-09-15-3rd-week-september-2021",
+    "num": "3rd-week-september-2021",
+    "date_str": "2021-09-15",
+    "description": "3rd Week September 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Sep_3rd_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-09-22-4th-week-september-2021",
+    "num": "4th-week-september-2021",
+    "date_str": "2021-09-22",
+    "description": "4th Week September 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Sep_4th_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-10-01-1st-week-october-2021",
+    "num": "1st-week-october-2021",
+    "date_str": "2021-10-01",
+    "description": "1st Week October 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Oct1st_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-10-08-2nd-week-october-2021",
+    "num": "2nd-week-october-2021",
+    "date_str": "2021-10-08",
+    "description": "2nd Week October 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Oct_2nd_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-10-15-3rd-week-october-2021",
+    "num": "3rd-week-october-2021",
+    "date_str": "2021-10-15",
+    "description": "3rd Week October 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Oct3rd_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-10-22-4th-week-october-2021",
+    "num": "4th-week-october-2021",
+    "date_str": "2021-10-22",
+    "description": "4th Week October 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Oct_4th_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-11-01-1st-week-november-2021",
+    "num": "1st-week-november-2021",
+    "date_str": "2021-11-01",
+    "description": "1st Week November 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Nov_1st_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-11-08-2nd-week-november-2021",
+    "num": "2nd-week-november-2021",
+    "date_str": "2021-11-08",
+    "description": "2nd Week November 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Nov.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-11-22-4th-week-november-2021",
+    "num": "4th-week-november-2021",
+    "date_str": "2021-11-22",
+    "description": "4th Week November 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Nov.4th_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-12-01-1st-week-december-2021",
+    "num": "1st-week-december-2021",
+    "date_str": "2021-12-01",
+    "description": "1st Week December 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Dec.1st_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-12-08-2nd-week-december-2021",
+    "num": "2nd-week-december-2021",
+    "date_str": "2021-12-08",
+    "description": "2nd Week December 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Dec.2nd_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-12-15-3rd-week-december-2021",
+    "num": "3rd-week-december-2021",
+    "date_str": "2021-12-15",
+    "description": "3rd Week December 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Dec.3rd_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2021-12-22-4th-week-december-2021",
+    "num": "4th-week-december-2021",
+    "date_str": "2021-12-22",
+    "description": "4th Week December 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Dec.4th_week_2021.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-01-01-1st-week-january-2022",
+    "num": "1st-week-january-2022",
+    "date_str": "2022-01-01",
+    "description": "1st Week January 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/jan.1st_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-01-08-2nd-week-january-2022",
+    "num": "2nd-week-january-2022",
+    "date_str": "2022-01-08",
+    "description": "2nd Week January 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/jan.2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-01-15-3rd-week-january-2022",
+    "num": "3rd-week-january-2022",
+    "date_str": "2022-01-15",
+    "description": "3rd Week January 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/jan.3rd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-02-01-1st-week-february-2022",
+    "num": "1st-week-february-2022",
+    "date_str": "2022-02-01",
+    "description": "1st Week February 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Feb.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-02-08-2nd-week-february-2022",
+    "num": "2nd-week-february-2022",
+    "date_str": "2022-02-08",
+    "description": "2nd Week February 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Feb.2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-02-15-3rd-week-february-2022",
+    "num": "3rd-week-february-2022",
+    "date_str": "2022-02-15",
+    "description": "3rd Week February 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Feb_3rd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-02-22-4th-week-february-2022",
+    "num": "4th-week-february-2022",
+    "date_str": "2022-02-22",
+    "description": "4th Week February 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Feb_4th_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-03-01-1st-week-march-2022",
+    "num": "1st-week-march-2022",
+    "date_str": "2022-03-01",
+    "description": "1st Week March 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Mar1st_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-03-08-2nd-week-march-2022",
+    "num": "2nd-week-march-2022",
+    "date_str": "2022-03-08",
+    "description": "2nd Week March 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Mar_2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-03-15-3rd-week-march-2022",
+    "num": "3rd-week-march-2022",
+    "date_str": "2022-03-15",
+    "description": "3rd Week March 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Mar_3nd_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-03-22-4th-week-march-2022",
+    "num": "4th-week-march-2022",
+    "date_str": "2022-03-22",
+    "description": "4th Week March 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Mar_4th_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-04-15-3rd-week-april-2022",
+    "num": "3rd-week-april-2022",
+    "date_str": "2022-04-15",
+    "description": "3rd Week April 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Apr.3rd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-04-22-4th-week-april-2022",
+    "num": "4th-week-april-2022",
+    "date_str": "2022-04-22",
+    "description": "4th Week April 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Apr.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-05-01-1st-week-may-2022",
+    "num": "1st-week-may-2022",
+    "date_str": "2022-05-01",
+    "description": "1st Week May 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/May.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-05-15-3rd-week-may-2022",
+    "num": "3rd-week-may-2022",
+    "date_str": "2022-05-15",
+    "description": "3rd Week May 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/May_3rd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-05-22-4th-week-may-2022",
+    "num": "4th-week-may-2022",
+    "date_str": "2022-05-22",
+    "description": "4th Week May 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/May_4th_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-06-01-1st-week-june-2022",
+    "num": "1st-week-june-2022",
+    "date_str": "2022-06-01",
+    "description": "1st Week June 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/June1st_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-06-08-2nd-week-june-2022",
+    "num": "2nd-week-june-2022",
+    "date_str": "2022-06-08",
+    "description": "2nd Week June 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/June_2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-06-15-3rd-week-june-2022",
+    "num": "3rd-week-june-2022",
+    "date_str": "2022-06-15",
+    "description": "3rd Week June 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/June_3rd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-06-22-4th-week-june-2022",
+    "num": "4th-week-june-2022",
+    "date_str": "2022-06-22",
+    "description": "4th Week June 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/June_4th_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-07-01-1st-week-july-2022",
+    "num": "1st-week-july-2022",
+    "date_str": "2022-07-01",
+    "description": "1st Week July 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/July_1st_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-07-08-2nd-week-july-2022",
+    "num": "2nd-week-july-2022",
+    "date_str": "2022-07-08",
+    "description": "2nd Week July 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/July_2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-07-15-3rd-week-july-2022",
+    "num": "3rd-week-july-2022",
+    "date_str": "2022-07-15",
+    "description": "3rd Week July 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/July_3rd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-07-22-4th-week-july-2022",
+    "num": "4th-week-july-2022",
+    "date_str": "2022-07-22",
+    "description": "4th Week July 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/July_4th_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-08-01-1st-week-august-2022",
+    "num": "1st-week-august-2022",
+    "date_str": "2022-08-01",
+    "description": "1st Week August 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Aug_1st_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-08-15-3rd-week-august-2022",
+    "num": "3rd-week-august-2022",
+    "date_str": "2022-08-15",
+    "description": "3rd Week August 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Aug_3rd_week_2022_xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-08-22-4th-week-august-2022",
+    "num": "4th-week-august-2022",
+    "date_str": "2022-08-22",
+    "description": "4th Week August 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Aug_4th_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-09-01-1st-week-september-2022",
+    "num": "1st-week-september-2022",
+    "date_str": "2022-09-01",
+    "description": "1st Week September 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Sep_1st_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-09-08-2nd-week-september-2022",
+    "num": "2nd-week-september-2022",
+    "date_str": "2022-09-08",
+    "description": "2nd Week September 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Sep_2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-09-15-3rd-week-september-2022",
+    "num": "3rd-week-september-2022",
+    "date_str": "2022-09-15",
+    "description": "3rd Week September 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Sep_3rd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-09-22-4th-week-september-2022",
+    "num": "4th-week-september-2022",
+    "date_str": "2022-09-22",
+    "description": "4th Week September 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Sep_4th_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-10-01-1st-week-october-2022",
+    "num": "1st-week-october-2022",
+    "date_str": "2022-10-01",
+    "description": "1st Week October 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Oct.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-10-08-2nd-week-october-2022",
+    "num": "2nd-week-october-2022",
+    "date_str": "2022-10-08",
+    "description": "2nd Week October 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Oct_2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-10-15-3rd-week-october-2022",
+    "num": "3rd-week-october-2022",
+    "date_str": "2022-10-15",
+    "description": "3rd Week October 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Oct_3rd_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-10-22-4th-week-october-2022",
+    "num": "4th-week-october-2022",
+    "date_str": "2022-10-22",
+    "description": "4th Week October 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Oct_4th_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-11-01-1st-week-november-2022",
+    "num": "1st-week-november-2022",
+    "date_str": "2022-11-01",
+    "description": "1st Week November 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Nov_1st_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-11-08-2nd-week-november-2022",
+    "num": "2nd-week-november-2022",
+    "date_str": "2022-11-08",
+    "description": "2nd Week November 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Nov_2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-11-15-3rd-week-november-2022",
+    "num": "3rd-week-november-2022",
+    "date_str": "2022-11-15",
+    "description": "3rd Week November 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Nov_3rd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-11-22-4th-week-november-2022",
+    "num": "4th-week-november-2022",
+    "date_str": "2022-11-22",
+    "description": "4th Week November 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Nov_4th_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-12-01-1st-week-december-2022",
+    "num": "1st-week-december-2022",
+    "date_str": "2022-12-01",
+    "description": "1st Week December 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Dec_1st_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-12-08-2nd-week-december-2022",
+    "num": "2nd-week-december-2022",
+    "date_str": "2022-12-08",
+    "description": "2nd Week December 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Dec_2nd_week_2022.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-12-15-3rd-week-december-2022",
+    "num": "3rd-week-december-2022",
+    "date_str": "2022-12-15",
+    "description": "3rd Week December 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Dec_3rd_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2022-12-22-4th-week-december-2022",
+    "num": "4th-week-december-2022",
+    "date_str": "2022-12-22",
+    "description": "4th Week December 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2022/Dec_4th_week_2022xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-01-01-1st-week-january-2023",
+    "num": "1st-week-january-2023",
+    "date_str": "2023-01-01",
+    "description": "1st Week January 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Jan_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-01-08-2nd-week-january-2023",
+    "num": "2nd-week-january-2023",
+    "date_str": "2023-01-08",
+    "description": "2nd Week January 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Jan_2nd_week_2023xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-01-15-3rd-week-january-2023",
+    "num": "3rd-week-january-2023",
+    "date_str": "2023-01-15",
+    "description": "3rd Week January 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Jan_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-01-22-4th-week-january-2023",
+    "num": "4th-week-january-2023",
+    "date_str": "2023-01-22",
+    "description": "4th Week January 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Jan_4th_week_2023xlsx.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-02-01-1st-week-february-2023",
+    "num": "1st-week-february-2023",
+    "date_str": "2023-02-01",
+    "description": "1st Week February 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Feb_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-02-08-2nd-week-february-2023",
+    "num": "2nd-week-february-2023",
+    "date_str": "2023-02-08",
+    "description": "2nd Week February 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Feb_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-02-15-3rd-week-february-2023",
+    "num": "3rd-week-february-2023",
+    "date_str": "2023-02-15",
+    "description": "3rd Week February 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Feb_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-02-22-4th-week-february-2023",
+    "num": "4th-week-february-2023",
+    "date_str": "2023-02-22",
+    "description": "4th Week February 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Feb_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-03-01-1st-week-march-2023",
+    "num": "1st-week-march-2023",
+    "date_str": "2023-03-01",
+    "description": "1st Week March 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Mar_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-03-08-2nd-week-march-2023",
+    "num": "2nd-week-march-2023",
+    "date_str": "2023-03-08",
+    "description": "2nd Week March 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Mar_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-03-15-3rd-week-march-2023",
+    "num": "3rd-week-march-2023",
+    "date_str": "2023-03-15",
+    "description": "3rd Week March 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Mar_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-03-22-4th-week-march-2023",
+    "num": "4th-week-march-2023",
+    "date_str": "2023-03-22",
+    "description": "4th Week March 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Mar_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-04-01-1st-week-april-2023",
+    "num": "1st-week-april-2023",
+    "date_str": "2023-04-01",
+    "description": "1st Week April 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/April_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-04-08-2nd-week-april-2023",
+    "num": "2nd-week-april-2023",
+    "date_str": "2023-04-08",
+    "description": "2nd Week April 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Apr.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-04-15-3rd-week-april-2023",
+    "num": "3rd-week-april-2023",
+    "date_str": "2023-04-15",
+    "description": "3rd Week April 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Apr_3nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-04-22-4th-week-april-2023",
+    "num": "4th-week-april-2023",
+    "date_str": "2023-04-22",
+    "description": "4th Week April 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Apr_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-05-01-1st-week-may-2023",
+    "num": "1st-week-may-2023",
+    "date_str": "2023-05-01",
+    "description": "1st Week May 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/May_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-05-08-2nd-week-may-2023",
+    "num": "2nd-week-may-2023",
+    "date_str": "2023-05-08",
+    "description": "2nd Week May 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/May_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-05-15-3rd-week-may-2023",
+    "num": "3rd-week-may-2023",
+    "date_str": "2023-05-15",
+    "description": "3rd Week May 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/May_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-05-22-4th-week-may-2023",
+    "num": "4th-week-may-2023",
+    "date_str": "2023-05-22",
+    "description": "4th Week May 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/May_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-06-01-1st-week-june-2023",
+    "num": "1st-week-june-2023",
+    "date_str": "2023-06-01",
+    "description": "1st Week June 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/june_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-06-08-2nd-week-june-2023",
+    "num": "2nd-week-june-2023",
+    "date_str": "2023-06-08",
+    "description": "2nd Week June 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/june_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-06-15-3rd-week-june-2023",
+    "num": "3rd-week-june-2023",
+    "date_str": "2023-06-15",
+    "description": "3rd Week June 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/june_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-06-22-4th-week-june-2023",
+    "num": "4th-week-june-2023",
+    "date_str": "2023-06-22",
+    "description": "4th Week June 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/june_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-07-01-1st-week-july-2023",
+    "num": "1st-week-july-2023",
+    "date_str": "2023-07-01",
+    "description": "1st Week July 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/July_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-07-08-2nd-week-july-2023",
+    "num": "2nd-week-july-2023",
+    "date_str": "2023-07-08",
+    "description": "2nd Week July 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/July_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-07-15-3rd-week-july-2023",
+    "num": "3rd-week-july-2023",
+    "date_str": "2023-07-15",
+    "description": "3rd Week July 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/July_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-07-22-4th-week-july-2023",
+    "num": "4th-week-july-2023",
+    "date_str": "2023-07-22",
+    "description": "4th Week July 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/July_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-08-01-1st-week-august-2023",
+    "num": "1st-week-august-2023",
+    "date_str": "2023-08-01",
+    "description": "1st Week August 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Aug_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-08-08-2nd-week-august-2023",
+    "num": "2nd-week-august-2023",
+    "date_str": "2023-08-08",
+    "description": "2nd Week August 2023",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Aug_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-08-15-3rd-week-august-2023excel-21-kb",
+    "num": "3rd-week-august-2023excel-21-kb",
+    "date_str": "2023-08-15",
+    "description": "3rd Week August 2023[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Aug_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-08-22-4th-week-august-2023excel-21-kb",
+    "num": "4th-week-august-2023excel-21-kb",
+    "date_str": "2023-08-22",
+    "description": "4th Week August 2023[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Aug_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-09-01-1st-week-september-2023-78ffebf1",
+    "num": "1st-week-september-2023excel-23-kb",
+    "date_str": "2023-09-01",
+    "description": "1st Week September 2023[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Sep1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-09-08-2nd-week-september-2023-9c2020ab",
+    "num": "2nd-week-september-2023excel-23-kb",
+    "date_str": "2023-09-08",
+    "description": "2nd Week September 2023[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Sep_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-09-15-3rd-week-september-2023-8d8f51ec",
+    "num": "3rd-week-september-2023excel-23-kb",
+    "date_str": "2023-09-15",
+    "description": "3rd Week September 2023[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Sep_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-09-22-4th-week-september-2023-300dbf50",
+    "num": "4th-week-september-2023excel-21-kb",
+    "date_str": "2023-09-22",
+    "description": "4th Week September 2023[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Sep_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-10-01-1st-week-october-2023ex-7eecce50",
+    "num": "1st-week-october-2023excel-21-kb",
+    "date_str": "2023-10-01",
+    "description": "1st Week October 2023[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/oct_1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-10-08-2nd-week-october-2023ex-01edf742",
+    "num": "2nd-week-october-2023excel-21-kb",
+    "date_str": "2023-10-08",
+    "description": "2nd Week October 2023[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/oct_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-10-15-3rd-week-october-2023ex-5e8739d4",
+    "num": "3rd-week-october-2023excel-22-kb",
+    "date_str": "2023-10-15",
+    "description": "3rd Week October 2023[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/oct_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-10-22-4th-week-october-2023ex-00bb8977",
+    "num": "4th-week-october-2023excel-23-kb",
+    "date_str": "2023-10-22",
+    "description": "4th Week October 2023[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/oct_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-11-01-1st-week-november-2023e-707a0dc6",
+    "num": "1st-week-november-2023excel-22-kb",
+    "date_str": "2023-11-01",
+    "description": "1st Week November 2023[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/nov1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-11-08-2nd-week-november-2023e-45c61c7f",
+    "num": "2nd-week-november-2023excel-22-kb",
+    "date_str": "2023-11-08",
+    "description": "2nd Week November 2023[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/nov2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-11-15-3rd-week-november-2023e-9024e5c6",
+    "num": "3rd-week-november-2023excel-22-kb",
+    "date_str": "2023-11-15",
+    "description": "3rd Week November 2023[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/nov_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-11-22-4th-week-november-2023e-83c5bc4f",
+    "num": "4th-week-november-2023excel-22-kb",
+    "date_str": "2023-11-22",
+    "description": "4th Week November 2023[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/nov_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-12-01-1st-week-december-2023e-73cfa33f",
+    "num": "1st-week-december-2023excel-20-kb",
+    "date_str": "2023-12-01",
+    "description": "1st Week December 2023[EXCEL - 20 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Dec1st_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-12-08-2nd-week-december-2023e-fbc7c86d",
+    "num": "2nd-week-december-2023excel-20-kb",
+    "date_str": "2023-12-08",
+    "description": "2nd Week December 2023[EXCEL - 20 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Dec_2nd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-12-15-3rd-week-december-2023e-d4572ff7",
+    "num": "3rd-week-december-2023excel-21-kb",
+    "date_str": "2023-12-15",
+    "description": "3rd Week December 2023[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Dec_3rd_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2023-12-22-4th-week-december-2023e-1f170239",
+    "num": "4th-week-december-2023excel-22-kb",
+    "date_str": "2023-12-22",
+    "description": "4th Week December 2023[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2023/Dec_4th_week_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-01-01-1st-week-january-2024ex-508bded7",
+    "num": "1st-week-january-2024excel-21-kb",
+    "date_str": "2024-01-01",
+    "description": "1st Week January 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Jan1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-01-08-2nd-week-january-2024ex-0d2803a9",
+    "num": "2nd-week-january-2024excel-21-kb",
+    "date_str": "2024-01-08",
+    "description": "2nd Week January 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Jan_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-01-15-3rd-week-january-2024ex-1d8f408b",
+    "num": "3rd-week-january-2024excel-21-kb",
+    "date_str": "2024-01-15",
+    "description": "3rd Week January 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Jan_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-01-22-4th-week-january-2024ex-407babf0",
+    "num": "4th-week-january-2024excel-21-kb",
+    "date_str": "2024-01-22",
+    "description": "4th Week January 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Jan_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-02-01-1st-week-february-2024e-25afdd97",
+    "num": "1st-week-february-2024excel-21-kb",
+    "date_str": "2024-02-01",
+    "description": "1st Week February 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Feb1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-02-08-2nd-week-february-2024e-71271caa",
+    "num": "2nd-week-february-2024excel-21-kb",
+    "date_str": "2024-02-08",
+    "description": "2nd Week February 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Feb_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-02-15-3rd-week-february-2024e-0dbf009c",
+    "num": "3rd-week-february-2024excel-21-kb",
+    "date_str": "2024-02-15",
+    "description": "3rd Week February 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Feb_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-02-22-4th-week-february-2024e-6ff04c7a",
+    "num": "4th-week-february-2024excel-21-kb",
+    "date_str": "2024-02-22",
+    "description": "4th Week February 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Feb_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-03-01-1st-week-march-2024excel-21-kb",
+    "num": "1st-week-march-2024excel-21-kb",
+    "date_str": "2024-03-01",
+    "description": "1st Week March 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Mar_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-03-08-2nd-week-march-2024excel-21-kb",
+    "num": "2nd-week-march-2024excel-21-kb",
+    "date_str": "2024-03-08",
+    "description": "2nd Week March 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Mar_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-03-15-3rd-week-march-2024excel-21-kb",
+    "num": "3rd-week-march-2024excel-21-kb",
+    "date_str": "2024-03-15",
+    "description": "3rd Week March 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Mar_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-03-22-4th-week-march-2024excel-22-kb",
+    "num": "4th-week-march-2024excel-22-kb",
+    "date_str": "2024-03-22",
+    "description": "4th Week March 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Mar_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-04-01-1st-week-april-2024excel-21-kb",
+    "num": "1st-week-april-2024excel-21-kb",
+    "date_str": "2024-04-01",
+    "description": "1st Week April 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Apr_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-04-08-2nd-week-april-2024excel-21-kb",
+    "num": "2nd-week-april-2024excel-21-kb",
+    "date_str": "2024-04-08",
+    "description": "2nd Week April 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Apr_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-04-15-3rd-week-april-2024excel-22-kb",
+    "num": "3rd-week-april-2024excel-22-kb",
+    "date_str": "2024-04-15",
+    "description": "3rd Week April 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Apr_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-04-22-4th-week-april-2024excel-22-kb",
+    "num": "4th-week-april-2024excel-22-kb",
+    "date_str": "2024-04-22",
+    "description": "4th Week April 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Apr_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-05-01-1st-week-may-2024excel-22-kb",
+    "num": "1st-week-may-2024excel-22-kb",
+    "date_str": "2024-05-01",
+    "description": "1st Week May 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/May_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-05-08-2nd-week-may-2024excel-22-kb",
+    "num": "2nd-week-may-2024excel-22-kb",
+    "date_str": "2024-05-08",
+    "description": "2nd Week May 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/May_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-05-15-3rd-week-may-2024excel-22-kb",
+    "num": "3rd-week-may-2024excel-22-kb",
+    "date_str": "2024-05-15",
+    "description": "3rd Week May 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/May_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-05-22-4th-week-may-2024excel-22-kb",
+    "num": "4th-week-may-2024excel-22-kb",
+    "date_str": "2024-05-22",
+    "description": "4th Week May 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/May_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-06-01-1st-week-june-2024excel-22-kb",
+    "num": "1st-week-june-2024excel-22-kb",
+    "date_str": "2024-06-01",
+    "description": "1st Week June 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/June_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-06-08-2nd-week-june-2024excel-22-kb",
+    "num": "2nd-week-june-2024excel-22-kb",
+    "date_str": "2024-06-08",
+    "description": "2nd Week June 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/June_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-06-15-3rd-week-june-2024excel-22-kb",
+    "num": "3rd-week-june-2024excel-22-kb",
+    "date_str": "2024-06-15",
+    "description": "3rd Week June 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/June_3rd_week_2024_1.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-06-22-4th-week-june-2024excel-22-kb",
+    "num": "4th-week-june-2024excel-22-kb",
+    "date_str": "2024-06-22",
+    "description": "4th Week June 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/June_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-07-01-1st-week-july-2024excel-20-kb",
+    "num": "1st-week-july-2024excel-20-kb",
+    "date_str": "2024-07-01",
+    "description": "1st Week July 2024[EXCEL - 20 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/July_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-07-08-2nd-week-july-2024excel-20-kb",
+    "num": "2nd-week-july-2024excel-20-kb",
+    "date_str": "2024-07-08",
+    "description": "2nd Week July 2024[EXCEL - 20 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/July_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-07-15-3rd-week-july-2024excel-20-kb",
+    "num": "3rd-week-july-2024excel-20-kb",
+    "date_str": "2024-07-15",
+    "description": "3rd Week July 2024[EXCEL - 20 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/July_3nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-07-22-4th-week-july-2024excel-21-kb",
+    "num": "4th-week-july-2024excel-21-kb",
+    "date_str": "2024-07-22",
+    "description": "4th Week July 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/July_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-08-01-1st-week-august-2024excel-21-kb",
+    "num": "1st-week-august-2024excel-21-kb",
+    "date_str": "2024-08-01",
+    "description": "1st Week\u00a0August 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Aug_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-08-08-2nd-week-august-2024excel-22-kb",
+    "num": "2nd-week-august-2024excel-22-kb",
+    "date_str": "2024-08-08",
+    "description": "2nd Week\u00a0August 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Aug_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-08-15-3rd-week-august-2024excel-22-kb",
+    "num": "3rd-week-august-2024excel-22-kb",
+    "date_str": "2024-08-15",
+    "description": "3rd Week\u00a0August 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Aug_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-08-22-4th-week-august-2024excel-21-kb",
+    "num": "4th-week-august-2024excel-21-kb",
+    "date_str": "2024-08-22",
+    "description": "4th Week\u00a0August 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Aug_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-09-01-1st-week-september-2024-716c212c",
+    "num": "1st-week-september-2024excel-21-kb",
+    "date_str": "2024-09-01",
+    "description": "1st Week\u00a0September 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Sep1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-09-08-2nd-week-september-2024-68c60442",
+    "num": "2nd-week-september-2024excel-21-kb",
+    "date_str": "2024-09-08",
+    "description": "2nd Week\u00a0September 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Sep_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-09-15-3rd-week-september-2024-825217d4",
+    "num": "3rd-week-september-2024excel-21-kb",
+    "date_str": "2024-09-15",
+    "description": "3rd Week\u00a0September 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Sep_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-09-22-4th-week-september-2024-9293d5de",
+    "num": "4th-week-september-2024excel-22-kb",
+    "date_str": "2024-09-22",
+    "description": "4th Week\u00a0September 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Sep_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-10-01-1st-week-october-2024ex-8c3c862d",
+    "num": "1st-week-october-2024excel-22-kb",
+    "date_str": "2024-10-01",
+    "description": "1st Week\u00a0October 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Oct_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-10-08-2nd-week-october-2024ex-a37df190",
+    "num": "2nd-week-october-2024excel-21-kb",
+    "date_str": "2024-10-08",
+    "description": "2nd Week\u00a0October 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Oct_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-10-15-3rd-week-october-2024ex-16204b1e",
+    "num": "3rd-week-october-2024excel-21-kb",
+    "date_str": "2024-10-15",
+    "description": "3rd Week\u00a0October 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Oct_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-10-22-4th-week-october-2024ex-f231eb34",
+    "num": "4th-week-october-2024excel-21-kb",
+    "date_str": "2024-10-22",
+    "description": "4th Week\u00a0October 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Oct_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-11-01-1st-week-november-2024e-997e7443",
+    "num": "1st-week-november-2024excel-21-kb",
+    "date_str": "2024-11-01",
+    "description": "1st Week\u00a0November 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Nov_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-11-08-2nd-week-november-2024e-89dabfc1",
+    "num": "2nd-week-november-2024excel-21-kb",
+    "date_str": "2024-11-08",
+    "description": "2nd Week\u00a0November 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Nov_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-11-15-3rd-week-november-2024e-33a29f2a",
+    "num": "3rd-week-november-2024excel-21-kb",
+    "date_str": "2024-11-15",
+    "description": "3rd Week\u00a0November 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Nov_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-11-22-4th-week-november-2024e-38e1f704",
+    "num": "4th-week-november-2024excel-21-kb",
+    "date_str": "2024-11-22",
+    "description": "4th Week\u00a0November 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/Nov_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-12-01-1st-week-december-2024e-ccbec6b0",
+    "num": "1st-week-december-2024excel-22-kb",
+    "date_str": "2024-12-01",
+    "description": "1st Week\u00a0December 2024[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Dec_1st_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-12-08-2nd-week-december-2024e-cea7194f",
+    "num": "2nd-week-december-2024excel-21-kb",
+    "date_str": "2024-12-08",
+    "description": "2nd Week\u00a0December 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Dec_2nd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-12-15-3rd-week-december-2024e-38fe0e7c",
+    "num": "3rd-week-december-2024excel-21-kb",
+    "date_str": "2024-12-15",
+    "description": "3rd Week\u00a0December 2024[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Dec_3rd_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2024-12-22-4th-week-december-2024e-8d286b30",
+    "num": "4th-week-december-2024excel-20-kb",
+    "date_str": "2024-12-22",
+    "description": "4th Week\u00a0December 2024[EXCEL - 20 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2024/Dec_4th_week_2024.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-01-01-1st-week-january-2025ex-cfc2aa37",
+    "num": "1st-week-january-2025excel-20-kb",
+    "date_str": "2025-01-01",
+    "description": "1st Week\u00a0January 2025[EXCEL - 20 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Jan1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-01-08-2nd-week-january-2025ex-7558680c",
+    "num": "2nd-week-january-2025excel-21-kb",
+    "date_str": "2025-01-08",
+    "description": "2nd Week\u00a0January 2025[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Jan_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-01-15-3rd-week-january-2025ex-3d804652",
+    "num": "3rd-week-january-2025excel-21-kb",
+    "date_str": "2025-01-15",
+    "description": "3rd Week\u00a0January 2025[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Jan_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-01-22-4th-week-january-2025ex-c9d428ec",
+    "num": "4th-week-january-2025excel-21-kb",
+    "date_str": "2025-01-22",
+    "description": "4th Week\u00a0January 2025[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Jan_4th_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-02-01-1st-week-february-2025e-27ee6d31",
+    "num": "1st-week-february-2025excel-23-kb",
+    "date_str": "2025-02-01",
+    "description": "1st Week\u00a0February 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Feb_1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-02-08-2nd-week-february-2025e-a6cf247b",
+    "num": "2nd-week-february-2025excel-23-kb",
+    "date_str": "2025-02-08",
+    "description": "2nd Week\u00a0February 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Feb_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-02-15-3rd-week-february-2025e-de2d3259",
+    "num": "3rd-week-february-2025excel-23-kb",
+    "date_str": "2025-02-15",
+    "description": "3rd Week\u00a0February 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Feb_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-02-22-4th-week-february-2025e-baf4b295",
+    "num": "4th-week-february-2025excel-23-kb",
+    "date_str": "2025-02-22",
+    "description": "4th Week\u00a0February 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Feb_4th_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-03-01-1st-week-march-2025excel-23-kb",
+    "num": "1st-week-march-2025excel-23-kb",
+    "date_str": "2025-03-01",
+    "description": "1st Week\u00a0March 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/mar1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-03-08-2nd-week-march-2025excel-24-kb",
+    "num": "2nd-week-march-2025excel-24-kb",
+    "date_str": "2025-03-08",
+    "description": "2nd Week\u00a0March 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/mar_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-03-15-3rd-week-march-2025excel-24-kb",
+    "num": "3rd-week-march-2025excel-24-kb",
+    "date_str": "2025-03-15",
+    "description": "3rd Week\u00a0March 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/mar_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-03-22-4th-week-march-2025excel-24-kb",
+    "num": "4th-week-march-2025excel-24-kb",
+    "date_str": "2025-03-22",
+    "description": "4th Week\u00a0March 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/mar_4th_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-04-01-1st-week-april-2025excel-23-kb",
+    "num": "1st-week-april-2025excel-23-kb",
+    "date_str": "2025-04-01",
+    "description": "1st Week\u00a0April 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Apr_1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-04-08-2nd-week-april-2025excel-23-kb",
+    "num": "2nd-week-april-2025excel-23-kb",
+    "date_str": "2025-04-08",
+    "description": "2nd Week\u00a0April 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Apr_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-04-15-3rd-week-april-2025excel-23-kb",
+    "num": "3rd-week-april-2025excel-23-kb",
+    "date_str": "2025-04-15",
+    "description": "3rd Week\u00a0April 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Apr_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-04-22-4th-week-april-2025excel-22-kb",
+    "num": "4th-week-april-2025excel-22-kb",
+    "date_str": "2025-04-22",
+    "description": "4th Week\u00a0April 2025[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Apr_4th_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-05-01-1st-week-may-2025excel-21-kb",
+    "num": "1st-week-may-2025excel-21-kb",
+    "date_str": "2025-05-01",
+    "description": "1st Week May 2025[EXCEL - 21 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/May_1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-05-08-2nd-week-may-2025excel-22-kb",
+    "num": "2nd-week-may-2025excel-22-kb",
+    "date_str": "2025-05-08",
+    "description": "2nd Week May 2025[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/May_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-05-15-3rd-week-may-2025excel-22-kb",
+    "num": "3rd-week-may-2025excel-22-kb",
+    "date_str": "2025-05-15",
+    "description": "3rd Week May 2025[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/May_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-05-22-4th-week-may-2025excel-22-kb",
+    "num": "4th-week-may-2025excel-22-kb",
+    "date_str": "2025-05-22",
+    "description": "4th Week May 2025[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/May_4th_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-06-01-1st-week-of-june-2025ex-04abd92e",
+    "num": "1st-week-of-june-2025excel-22-kb",
+    "date_str": "2025-06-01",
+    "description": "1st Week of June 2025[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/June_1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-06-08-2nd-week-of-june-2025ex-0f4c5bad",
+    "num": "2nd-week-of-june-2025excel-23-kb",
+    "date_str": "2025-06-08",
+    "description": "2nd Week of June 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/June_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-06-15-3rd-week-of-june-2025ex-26d21b60",
+    "num": "3rd-week-of-june-2025excel-23-kb",
+    "date_str": "2025-06-15",
+    "description": "3rd Week of June 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/June_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-06-22-4th-week-of-june-2025ex-becf6c8e",
+    "num": "4th-week-of-june-2025excel-23-kb",
+    "date_str": "2025-06-22",
+    "description": "4th Week of June 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/June_4th_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-07-01-1st-week-of-july-2025ex-02e81357",
+    "num": "1st-week-of-july-2025excel-23-kb",
+    "date_str": "2025-07-01",
+    "description": "1st Week of July 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/July_1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-07-08-2nd-week-of-july-2025ex-b6901a25",
+    "num": "2nd-week-of-july-2025excel-23-kb",
+    "date_str": "2025-07-08",
+    "description": "2nd Week of July 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/July_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-07-15-3rd-week-of-july-2025ex-2ff16dc4",
+    "num": "3rd-week-of-july-2025excel-23-kb",
+    "date_str": "2025-07-15",
+    "description": "3rd Week of July 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/July_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-07-22-4th-week-of-july-2025ex-c3ce3016",
+    "num": "4th-week-of-july-2025excel-23-kb",
+    "date_str": "2025-07-22",
+    "description": "4th Week of July 2025[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/July_4th_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-08-01-1st-week-of-august-2025-233d7664",
+    "num": "1st-week-of-august-2025excel-22-kb",
+    "date_str": "2025-08-01",
+    "description": "1st Week of August 2025[EXCEL - 22 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Aug1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-08-08-2nd-week-of-august-2025-5f865378",
+    "num": "2nd-week-of-august-2025excel-24-kb",
+    "date_str": "2025-08-08",
+    "description": "2nd Week of August 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Aug_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-08-15-3rd-week-of-august-2025-70d56135",
+    "num": "3rd-week-of-august-2025excel-24-kb",
+    "date_str": "2025-08-15",
+    "description": "3rd Week of August 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Aug_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-08-22-4th-week-of-august-2025-6ceffb8c",
+    "num": "4th-week-of-august-2025excel-24-kb",
+    "date_str": "2025-08-22",
+    "description": "4th Week of August 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Aug_4th_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-09-01-1st-week-of-september-2-ca4d1b08",
+    "num": "1st-week-of-september-2025excel-24-kb",
+    "date_str": "2025-09-01",
+    "description": "1st Week of September 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Sep_1st_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-09-08-2nd-week-of-september-2-fe8dfefa",
+    "num": "2nd-week-of-september-2025excel-24-kb",
+    "date_str": "2025-09-08",
+    "description": "2nd Week of September 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Sep_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-09-15-3rd-week-of-september-2-e7142ed5",
+    "num": "3rd-week-of-september-2025excel-24-kb",
+    "date_str": "2025-09-15",
+    "description": "3rd Week of September 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Sep_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-09-22-4th-week-of-september-2-bbd725fc",
+    "num": "4th-week-of-september-2025excel-24-kb",
+    "date_str": "2025-09-22",
+    "description": "4th Week of September 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Sep_4th_week_2025.xlsx"
+  }
+]
