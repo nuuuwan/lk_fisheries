@@ -1,0 +1,10 @@
+{
+  "doc_type": "lk_fisheries_monthly_fish_production_reports",
+  "doc_id": "2021-06-01-fish-production-june-2021",
+  "num": "fish-production-june-2021",
+  "date_str": "2021-06-01",
+  "description": "Fish Production - June 2021",
+  "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+  "lang": "en",
+  "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/6_Monthly_Fish_Production_-_JUN_2021_1.xlsx"
+}

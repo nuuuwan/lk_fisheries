@@ -1,0 +1,10 @@
+{
+  "doc_type": "lk_fisheries_monthly_fish_production_reports",
+  "doc_id": "2022-12-01-fish-production-december-2022",
+  "num": "fish-production-december-2022",
+  "date_str": "2022-12-01",
+  "description": "Fish Production - December 2022",
+  "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+  "lang": "en",
+  "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/12_Monthly_Fish_Production_-_DEC_2022__FINAL.xlsx"
+}

@@ -1,6 +1,96 @@
 [
   {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-01-01-fish-production-january-2019",
+    "num": "fish-production-january-2019",
+    "date_str": "2019-01-01",
+    "description": "Fish Production - January 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/01_Monthly_Fish_Production_-_Jan_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-03-01-fish-production-march-2019",
+    "num": "fish-production-march-2019",
+    "date_str": "2019-03-01",
+    "description": "Fish Production - March 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/03_Monthly_Fish_Production_-_Mar_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-04-01-fish-production-april-2019",
+    "num": "fish-production-april-2019",
+    "date_str": "2019-04-01",
+    "description": "Fish Production - April 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/04_Monthly_Fish_Production_-_Apr_2019.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-05-01-fish-production-may-2019",
+    "num": "fish-production-may-2019",
+    "date_str": "2019-05-01",
+    "description": "Fish Production - May 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/fish_Production_-_2019_May.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-06-01-fish-production-june-2019",
+    "num": "fish-production-june-2019",
+    "date_str": "2019-06-01",
+    "description": "Fish Production - June 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/Fish_Production_-2019_-_June.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-08-01-fish-production-august-2019",
+    "num": "fish-production-august-2019",
+    "date_str": "2019-08-01",
+    "description": "Fish Production - August 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/fish_production_August.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-09-01-fish-production-september-2019",
+    "num": "fish-production-september-2019",
+    "date_str": "2019-09-01",
+    "description": "Fish Production - September 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/fish_production_-2019_Sep.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-11-01-fish-production-november-2019",
+    "num": "fish-production-november-2019",
+    "date_str": "2019-11-01",
+    "description": "Fish Production - November 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/11_Monthly_Fish_Production_-_November_2019_7.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2019-12-01-fish-production-december-2019",
+    "num": "fish-production-december-2019",
+    "date_str": "2019-12-01",
+    "description": "Fish Production - December 2019",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/12_Monthly_Fish_Production_-_December_2019_5.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
     "doc_id": "2019-12-31-fish-production-april-2019",
     "num": "fish-production-april-2019",
     "date_str": "2019-12-31",
@@ -91,6 +181,76 @@
   },
   {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2020-01-01-fish-production-january-2020",
+    "num": "fish-production-january-2020",
+    "date_str": "2020-01-01",
+    "description": "Fish Production - January 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/1_Monthly_Fish_Production_-_January_2020.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2020-05-01-fish-production-may-2020",
+    "num": "fish-production-may-2020",
+    "date_str": "2020-05-01",
+    "description": "Fish Production - May 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/05_Monthly_Fish_Production_Estimate_-_May_2020_REVISED_1.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2020-07-01-fish-production-july-2020",
+    "num": "fish-production-july-2020",
+    "date_str": "2020-07-01",
+    "description": "Fish Production - July 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/07_Monthly_Fish_Production_-_July_2020_revised.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2020-08-01-fish-production-august-2020",
+    "num": "fish-production-august-2020",
+    "date_str": "2020-08-01",
+    "description": "Fish Production - August 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/08_Monthly_Fish_Production_-_Aug_2020_REVISED_4.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2020-09-01-fish-production-september-2020",
+    "num": "fish-production-september-2020",
+    "date_str": "2020-09-01",
+    "description": "Fish Production - September 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/09_Monthly_Fish_Production_-_SEP_2020-1.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2020-10-01-fish-production-october-2020",
+    "num": "fish-production-october-2020",
+    "date_str": "2020-10-01",
+    "description": "Fish Production - October 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/10_Monthly_Fish_Production_-_OCT_2020_5.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2020-12-01-fish-production-december-2020",
+    "num": "fish-production-december-2020",
+    "date_str": "2020-12-01",
+    "description": "Fish Production - December 2020",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/downloads/excel/2020/Copy_of_12_Monthly_Fish_Production_-_DEC_2020_REVISED-2.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
     "doc_id": "2020-12-31-fish-production-august-2020",
     "num": "fish-production-august-2020",
     "date_str": "2020-12-31",
@@ -161,6 +321,16 @@
   },
   {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2021-06-01-fish-production-june-2021",
+    "num": "fish-production-june-2021",
+    "date_str": "2021-06-01",
+    "description": "Fish Production - June 2021",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/6_Monthly_Fish_Production_-_JUN_2021_1.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
     "doc_id": "2021-12-31-fish-production-june-2021",
     "num": "fish-production-june-2021",
     "date_str": "2021-12-31",
@@ -168,6 +338,36 @@
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
     "lang": "en",
     "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/6_Monthly_Fish_Production_-_JUN_2021_1.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2022-08-01-fish-production-august--251ba87a",
+    "num": "fish-production-august-2022-provisional",
+    "date_str": "2022-08-01",
+    "description": "Fish Production - August 2022\u00a0 PROVISIONAL",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/8_Monthly_Fish_Production_-_AUG_2022___PROVISIONAL1.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2022-09-01-fish-production-september-2022",
+    "num": "fish-production-september-2022",
+    "date_str": "2022-09-01",
+    "description": "Fish Production - September 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/9_Monthly_Fish_Production_-_SEP_2022___FINAL2.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2022-12-01-fish-production-december-2022",
+    "num": "fish-production-december-2022",
+    "date_str": "2022-12-01",
+    "description": "Fish Production - December 2022",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/12_Monthly_Fish_Production_-_DEC_2022__FINAL.xlsx"
   },
   {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
@@ -198,6 +398,126 @@
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
     "lang": "en",
     "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/9_Monthly_Fish_Production_-_SEP_2022___FINAL2.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-01-01-fish-production-january-3402bfba",
+    "num": "fish-production-january-2023-revised-reportexcel-43-kb",
+    "date_str": "2023-01-01",
+    "description": "Fish Production - January 2023 (Revised Report)[EXCEL - 43 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/1_Monthly_Fish_Production_-_JAN_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-02-01-fish-production-februar-c685a5a2",
+    "num": "fish-production-february-2023-revised-reportexcel-43-kb",
+    "date_str": "2023-02-01",
+    "description": "Fish Production - February 2023 (Revised Report)[EXCEL - 43 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/2_Monthly_Fish_Production_-_FEB_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-03-01-fish-production-march-2-680cd9e9",
+    "num": "fish-production-march-2023-revised-reportexcel-43-kb",
+    "date_str": "2023-03-01",
+    "description": "Fish Production - March 2023 (Revised Report)[EXCEL - 43 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/3_Monthly_Fish_Production_-_MAR_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-04-01-fish-production-april-2-6dfb8a83",
+    "num": "fish-production-april-2023-revised-reportexcel-43-kb",
+    "date_str": "2023-04-01",
+    "description": "Fish Production - April 2023 (Revised Report)[EXCEL - 43 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/4_Monthly_Fish_Production_-_APR_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-05-01-fish-production-may-202-6826f622",
+    "num": "fish-production-may-2023-revised-reportexcel-43-kb",
+    "date_str": "2023-05-01",
+    "description": "Fish Production - May 2023 (Revised Report)[EXCEL - 43 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/5_Monthly_Fish_Production_-_MAY_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-06-01-fish-production-june-20-9ef60fa1",
+    "num": "fish-production-june-2023-revised-reportexcel-43-kb",
+    "date_str": "2023-06-01",
+    "description": "Fish Production - June 2023 (Revised Report)[EXCEL - 43 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/6_Monthly_Fish_Production_-_JUN_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-07-01-fish-production-july-20-fdc184a2",
+    "num": "fish-production-july-2023-revised-reportexcel-43-kb",
+    "date_str": "2023-07-01",
+    "description": "Fish Production - July 2023 (Revised Report)[EXCEL - 43 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/7_Monthly_Fish_Production_-_JUL_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-08-01-fish-production-august--9770d9a3",
+    "num": "fish-production-august-2023-revised-reportexcel-44-kb",
+    "date_str": "2023-08-01",
+    "description": "Fish Production - August 2023 (Revised Report)[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/8_Monthly_Fish_Production_-_AUG_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-09-01-fish-production-septemb-bdf2e354",
+    "num": "fish-production-september-2023-revised-reportexcel-44-kb",
+    "date_str": "2023-09-01",
+    "description": "Fish Production - September 2023 (Revised Report)[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/9_Monthly_Fish_Production_-_SEP_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-10-01-fish-production-october-3d543a0c",
+    "num": "fish-production-october-2023-excel-44-kb",
+    "date_str": "2023-10-01",
+    "description": "Fish Production - October 2023 [EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/10_Monthly_Fish_Production_-_OCT_2023.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-11-01-fish-production-novembe-e34786c5",
+    "num": "fish-production-november-2023-excel-44-kb",
+    "date_str": "2023-11-01",
+    "description": "Fish Production - November 2023\u00a0[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/11_Monthly_Fish_Production_-_NOV_2023_PROVISIONAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2023-12-01-fish-production-decembe-94567ac0",
+    "num": "fish-production-december-2023-excel-44-kb",
+    "date_str": "2023-12-01",
+    "description": "Fish Production - December 2023\u00a0[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2023/12_Monthly_Fish_Production_-_DEC_2023_FINAL.xlsx"
   },
   {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
@@ -321,6 +641,126 @@
   },
   {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-01-01-fish-production-january-83bf129e",
+    "num": "fish-production-january-2024-excel-44-kb",
+    "date_str": "2024-01-01",
+    "description": "Fish Production - January 2024\u00a0[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/1_Monthly_Fish_Production_-_JAN_2024_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-02-01-fish-production-februar-760d53b6",
+    "num": "fish-production-february-2024-excel-44-kb",
+    "date_str": "2024-02-01",
+    "description": "Fish Production - February 2024\u00a0[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/2_Monthly_Fish_Production_-_FEB_2024_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-03-01-fish-production-march-2-b6482ea7",
+    "num": "fish-production-march-2024-excel-44-kb",
+    "date_str": "2024-03-01",
+    "description": "Fish Production - March 2024\u00a0[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/3_Monthly_Fish_Production_-_MAR_2024_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-04-01-fish-production-april-2-a99cfa3d",
+    "num": "fish-production-april-2024-excel-44-kb",
+    "date_str": "2024-04-01",
+    "description": "Fish Production - April 2024\u00a0[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/4_Monthly_Fish_Production_-_APR_2024_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-05-01-fish-production-may-202-99bac3df",
+    "num": "fish-production-may-2024-excel-44-kb",
+    "date_str": "2024-05-01",
+    "description": "Fish Production - May 2024\u00a0[EXCEL - 44 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/5_Monthly_Fish_Production_-_MAY_2024_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-06-01-fish-production-june-20-d6107441",
+    "num": "fish-production-june-2024-excel-45-kb",
+    "date_str": "2024-06-01",
+    "description": "Fish Production - June 2024\u00a0[EXCEL - 45 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/6_Monthly_Fish_Production_-_JUNE_2024_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-07-01-fish-production-july-20-4d39e454",
+    "num": "fish-production-july-2024-excel-45-kb",
+    "date_str": "2024-07-01",
+    "description": "Fish Production - July 2024\u00a0[EXCEL - 45 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/7_Monthly_Fish_Production_-_JULY_2024_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-08-01-fish-production-august--4e5478aa",
+    "num": "fish-production-august-2024-excel-45-kb",
+    "date_str": "2024-08-01",
+    "description": "Fish Production - August 2024\u00a0[EXCEL - 45 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/8_Monthly_Fish_Production_-_AUGUST_2024_FINAL_REVISED.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-09-01-fish-production-septemb-9df8e3d0",
+    "num": "fish-production-september-2024-excel-45-kb",
+    "date_str": "2024-09-01",
+    "description": "Fish Production - September 2024\u00a0[EXCEL - 45 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/9_Monthly_Fish_Production_-_SEPTEMBER_2024_FINAL_REVISED.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-10-01-fish-production-october-8e6fa6a7",
+    "num": "fish-production-october-2024-excel-45-kb",
+    "date_str": "2024-10-01",
+    "description": "Fish Production - October 2024\u00a0[EXCEL - 45 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/10_Monthly_Fish_Production_-_OCTOBER_2024_FINAL_REVISED.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-11-01-fish-production-novembe-6b864bff",
+    "num": "fish-production-november-2024-excel-45-kb",
+    "date_str": "2024-11-01",
+    "description": "Fish Production - November 2024\u00a0[EXCEL - 45 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/11_Monthly_Fish_Production_-_NOVEMBER_2024_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2024-12-01-fish-production-decembe-73ffa6f3",
+    "num": "fish-production-december-2024-excel-45-kb",
+    "date_str": "2024-12-01",
+    "description": "Fish Production - December 2024\u00a0[EXCEL - 45 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/12_Monthly_Fish_Production_-_DECEMBER_2024_FINAL_REVISED.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
     "doc_id": "2024-12-31-fish-production-april-2-a99cfa3d",
     "num": "fish-production-april-2024-excel-44-kb",
     "date_str": "2024-12-31",
@@ -438,6 +878,86 @@
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
     "lang": "en",
     "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2024/9_Monthly_Fish_Production_-_SEPTEMBER_2024_FINAL_REVISED.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-01-01-fish-production-january-776a02ce",
+    "num": "fish-production-january-2025-excel-46-kb",
+    "date_str": "2025-01-01",
+    "description": "Fish Production - January 2025\u00a0[EXCEL - 46 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/1_Monthly_Fish_Production_-_JANUARY_2025_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-02-01-fish-production-februar-abfbbf80",
+    "num": "fish-production-february-2025-excel-46-kb",
+    "date_str": "2025-02-01",
+    "description": "Fish Production - February 2025\u00a0[EXCEL - 46 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/2_Monthly_Fish_Production_-_FEBRUARY_2025_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-03-01-fish-production-march-2-63f9806a",
+    "num": "fish-production-march-2025-excel-46-kb",
+    "date_str": "2025-03-01",
+    "description": "Fish Production - March 2025\u00a0[EXCEL - 46 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/3_Monthly_Fish_Production_-_MARCH_2025_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-04-01-fish-production-april-2-d43ece1f",
+    "num": "fish-production-april-2025-excel-47-kb",
+    "date_str": "2025-04-01",
+    "description": "Fish Production - April 2025\u00a0EXCEL - 47 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/4_Monthly_Fish_Production_-_APRIL_2025_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-05-01-fish-production-may-202-63342dbc",
+    "num": "fish-production-may-2025-excel-47-kb",
+    "date_str": "2025-05-01",
+    "description": "Fish Production - May 2025\u00a0[EXCEL - 47 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/5_Monthly_Fish_Production_-_MAY_2025_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-06-01-fish-production-june-20-fce50e0e",
+    "num": "fish-production-june-2025-excel-47-kb",
+    "date_str": "2025-06-01",
+    "description": "Fish Production - June 2025\u00a0[EXCEL - 47 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/6_Monthly_Fish_Production_-_JUNE_2025_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-07-01-fish-production-july-20-3ecbaf92",
+    "num": "fish-production-july-2025-excel-47-kb",
+    "date_str": "2025-07-01",
+    "description": "Fish Production - July 2025\u00a0[EXCEL - 47 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/7_Monthly_Fish_Production_-_JULY_2025_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-08-01-fish-production-august--3ceddbae",
+    "num": "fish-production-august-2025-provisional-excel-47-kb",
+    "date_str": "2025-08-01",
+    "description": "Fish Production - August 2025 PROVISIONAL\u00a0[EXCEL - 47 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/8_Monthly_Fish_Production_-_AUGUST_2025_PROVISIONAL.xlsx"
   },
   {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
