@@ -12,6 +12,9 @@ class CommonMixin:
     @staticmethod
     def clean_description_for_time(description: str) -> str:
         x = description
+        x = re.sub(r"[^a-zA-Z0-9\s]", "", x)
+        x = re.sub(r"\s+", " ", x)
+
         for phrase in ["[", "(", "PROVISIONAL", "EXCEL"]:
             if phrase in x:
                 x = x.split(phrase)[0]
@@ -20,11 +23,8 @@ class CommonMixin:
 
     @classmethod
     def clean_description(cls, description: str) -> str:
-        # remove non-alphanumeric and space
         description = re.sub(r"[^a-zA-Z0-9\s]", "", description)
-        # replace multiple spaces with single space
         description = re.sub(r"\s+", " ", description)
-        # replace space with "-"
         description = description.replace(" ", "-")
         return description.lower()
 
