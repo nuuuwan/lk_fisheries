@@ -9,7 +9,7 @@ log = Log("AnnualStatisticsReports")
 
 
 @dataclass
-class AnnualStatisticsReports(AbstractPDFDoc, CommonMixin):
+class AnnualStatisticsReports(CommonMixin, AbstractPDFDoc):
 
     @classmethod
     def get_doc_class_label(cls) -> str:

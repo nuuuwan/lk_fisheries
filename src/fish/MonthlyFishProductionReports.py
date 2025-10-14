@@ -3,11 +3,13 @@ from dataclasses import dataclass
 from scraper import AbstractExcelSpreadsheet
 from utils import Log
 
+from fish.CommonMixin import CommonMixin
+
 log = Log("MonthlyFishProductionReports")
 
 
 @dataclass
-class MonthlyFishProductionReports(AbstractExcelSpreadsheet):
+class MonthlyFishProductionReports(CommonMixin, AbstractExcelSpreadsheet):
 
     @classmethod
     def get_doc_class_label(cls) -> str:
