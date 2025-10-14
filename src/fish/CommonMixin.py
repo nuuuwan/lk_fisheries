@@ -8,6 +8,16 @@ log = Log("CommonMixin")
 
 
 class CommonMixin:
+
+    @staticmethod
+    def clean_description_for_time(description: str) -> str:
+        x = description
+        for phrase in ["[", "(", "PROVISIONAL", "EXCEL"]:
+            if phrase in x:
+                x = x.split(phrase)[0]
+        x = x.strip()
+        return x
+
     @classmethod
     def clean_description(cls, description: str) -> str:
         # remove non-alphanumeric and space
@@ -17,18 +27,6 @@ class CommonMixin:
         # replace space with "-"
         description = description.replace(" ", "-")
         return description.lower()
-
-    @staticmethod
-    def parse_year_from_description(description: str) -> str:
-        x = description
-        for phrase in ["[", "(", "PROVISIONAL", "EXCEL"]:
-            if phrase in x:
-                x = x.split(phrase)[0]
-
-        x = x.strip()
-        year = x[-4:]
-        assert year.isdigit(), (year, description)
-        return year
 
     @classmethod
     def gen_docs(cls):
@@ -41,8 +39,7 @@ class CommonMixin:
                 href = a.get("href")
 
                 description = a.text.strip()
-                year = cls.parse_year_from_description(description)
-                date_str = f"{year}-12-31"
+                date_str = cls.parse_date_str_from_description(description)
                 num = cls.clean_description(description)
                 lang = "en"
                 url_doc = "https://www.fisheries.gov.lk" + href

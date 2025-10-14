@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 
 from scraper import AbstractExcelSpreadsheet
-from utils import Log
+from utils import Log, TimeFormat
 
 from fish.CommonMixin import CommonMixin
 
@@ -37,3 +37,11 @@ class MonthlyFishProductionReports(CommonMixin, AbstractExcelSpreadsheet):
     @classmethod
     def get_ul_class(cls):
         return "excel"
+
+    @staticmethod
+    def parse_date_str_from_description(description: str) -> str:
+        x = CommonMixin.clean_description_for_time(description)
+        month_and_year_str = x.split("-")[-1].strip()
+        return TimeFormat.DATE.format(
+            TimeFormat("%B %Y").parse(month_and_year_str)
+        )

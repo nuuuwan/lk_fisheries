@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 
 from scraper import AbstractPDFDoc
-from utils import Log
+from utils import Log, TimeFormat
 
 from fish.CommonMixin import CommonMixin
 
@@ -37,3 +37,9 @@ class AnnualStatisticsReports(CommonMixin, AbstractPDFDoc):
     @classmethod
     def get_ul_class(cls):
         return "pdf"
+
+    @staticmethod
+    def parse_date_str_from_description(description: str) -> str:
+        x = CommonMixin.clean_description_for_time(description)
+        year_str = x[-4:]
+        return TimeFormat.DATE.format(TimeFormat("%Y").parse(year_str))
