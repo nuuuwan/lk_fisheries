@@ -1,16 +1,16 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**2** datasets, with **113** documents (**14.8 MB**).
+**2** datasets, with **113** documents (**15.4 MB**).
 
 ## 001 🐟 Fisheries Annual Statistics Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_10:28:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_10:35:06-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports)
 
 Annual Fisheries Statistics Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**9** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports) (**14.3 MB**), from **2017-01-01** to **2024-01-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**9** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports) (**15.0 MB**), from **2017-01-01** to **2024-01-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
 - In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
 
@@ -22,13 +22,13 @@ Annual Fisheries Statistics Reports of the Ministry of Fisheries,Aquatic and Oce
 
 ## 002 🐟 Fisheries Monthly Fish Production Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_10:28:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--14_10:35:19-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports)
 
 Monthly Fish Production Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**104** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports) (**472.1 kB**), from **2019-01-01** to **2025-12-31**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**104** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports) (**477.5 kB**), from **2019-01-01** to **2025-12-31**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
 - In **JSON**, **TXT** & **🤗 Hugging Face**
 
