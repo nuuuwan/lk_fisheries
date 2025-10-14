@@ -12,12 +12,11 @@ class CommonMixin:
     @staticmethod
     def clean_description_for_time(description: str) -> str:
         x = description
-        x = re.sub(r"[^a-zA-Z0-9\s]", "", x)
-        x = re.sub(r"\s+", " ", x)
 
         for phrase in ["[", "(", "PROVISIONAL", "EXCEL"]:
             if phrase in x:
                 x = x.split(phrase)[0]
+
         x = x.strip()
         return x
 
@@ -39,8 +38,12 @@ class CommonMixin:
                 href = a.get("href")
 
                 description = a.text.strip()
-                if "Final Report" in description:
+                if "Final Report" in description:  # HACK
                     continue
+
+                if "June)" in description or "- 2019" in description:  # HACK
+                    continue
+
                 date_str = cls.parse_date_str_from_description(description)
                 num = cls.clean_description(description)
                 lang = "en"
