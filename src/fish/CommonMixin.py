@@ -39,6 +39,8 @@ class CommonMixin:
                 href = a.get("href")
 
                 description = a.text.strip()
+                if "Final Report" in description:
+                    continue
                 date_str = cls.parse_date_str_from_description(description)
                 num = cls.clean_description(description)
                 lang = "en"
