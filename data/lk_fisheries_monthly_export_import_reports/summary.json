@@ -2,15 +2,15 @@
   "doc_class_label": "lk_fisheries_monthly_export_import_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2025-10-28 13:36:53",
-  "n_docs": 64,
+  "time_updated": "2025-10-28 14:11:18",
+  "n_docs": 65,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 11,
-  "n_docs_with_excel": 63,
+  "n_docs_with_excel": 64,
   "n_docs_with_tabular": 4,
   "date_str_min": "2019-01-01",
-  "date_str_max": "2025-08-01",
-  "dataset_size": 50961546,
+  "date_str_max": "2025-09-01",
+  "dataset_size": 51396646,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_fisheries_monthly_export_import_reports",
-    "doc_id": "2025-08-01-export-and-import-of-fi-098e6ee1",
-    "num": "export-and-import-of-fish-august-2025excel-423-kb",
-    "date_str": "2025-08-01",
-    "description": "Export and Import of Fish - August 2025[EXCEL - 423 KB]",
+    "doc_id": "2025-09-01-export-and-import-of-fi-b8e448a3",
+    "num": "export-and-import-of-fish-september-2025excel-424-kb",
+    "date_str": "2025-09-01",
+    "description": "Export and Import of Fish - September 2025[EXCEL - 424 KB]",
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
     "lang": "en",
-    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_2025_AUGUST_1.xls"
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_SEPTEMBER_1.xls"
   }
 }

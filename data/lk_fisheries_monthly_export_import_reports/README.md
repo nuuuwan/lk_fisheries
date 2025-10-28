@@ -1,12 +1,12 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Monthly Export Import Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_13:36:54-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--28_14:11:18-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports)
 
 Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**64** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports) (**51.0 MB**), from **2019-01-01** to **2025-08-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**65** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports) (**51.4 MB**), from **2019-01-01** to **2025-09-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
 - In **JSON**, **TXT** (17%), **Excel** (98%), **Tables** (6%) & **🤗 Hugging Face** (17%)
 
@@ -19,13 +19,13 @@ Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and 
 ```json
 {
     "doc_type": "lk_fisheries_monthly_export_import_reports",
-    "doc_id": "2025-08-01-export-and-import-of-fi-098e6ee1",
-    "num": "export-and-import-of-fish-august-2025excel-423-kb",
-    "date_str": "2025-08-01",
-    "description": "Export and Import of Fish - August 2025[EXCEL - 423 KB]",
+    "doc_id": "2025-09-01-export-and-import-of-fi-b8e448a3",
+    "num": "export-and-import-of-fish-september-2025excel-424-kb",
+    "date_str": "2025-09-01",
+    "description": "Export and Import of Fish - September 2025[EXCEL - 424 KB]",
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
     "lang": "en",
-    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_2025_AUGUST_1.xls"
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_SEPTEMBER_1.xls"
 }
 ```
 
@@ -40,6 +40,7 @@ Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and 
 
 ## 🆕 20 Latest documents
 
+- 2025-09-01 | `export-and-import-of-fish-september-2025excel-424-kb` | Export and Import of Fish - September 2025[EXCEL - 424 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports/2020s/2025/2025-09-01-export-and-import-of-fi-b8e448a3)
 - 2025-08-01 | `export-and-import-of-fish-august-2025excel-423-kb` | Export and Import of Fish - August 2025[EXCEL - 423 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports/2020s/2025/2025-08-01-export-and-import-of-fi-098e6ee1)
 - 2025-07-01 | `export-and-import-of-fish-july-2025excel-810-kb` | Export and Import of Fish - July 2025[EXCEL - 810 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports/2020s/2025/2025-07-01-export-and-import-of-fi-63875334)
 - 2025-06-01 | `export-and-import-of-fish-june-2025excel-806-kb` | Export and Import of Fish - June 2025[EXCEL - 806 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports/2020s/2025/2025-06-01-export-and-import-of-fi-943170a6)
@@ -59,7 +60,6 @@ Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and 
 - 2024-04-01 | `export-and-import-of-fish-april-2024excel-686-kb` | Export and Import of Fish - April 2024[EXCEL - 686 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports/2020s/2024/2024-04-01-export-and-import-of-fi-630ae447)
 - 2024-03-01 | `export-and-import-of-fish-march-2024excel-684-kb` | Export and Import of Fish - March 2024[EXCEL - 684 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports/2020s/2024/2024-03-01-export-and-import-of-fi-d9b56e6a)
 - 2024-02-01 | `export-and-import-of-fish-february-2024excel-681-kb` | Export and Import of Fish - February 2024[EXCEL - 681 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports/2020s/2024/2024-02-01-export-and-import-of-fi-dc99cf2d)
-- 2024-01-01 | `export-and-import-of-fish-january-2024pdf-683-kb` | Export and Import of Fish - January 2024[PDF - 683 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports/2020s/2024/2024-01-01-export-and-import-of-fi-35ef99ee)
 
 ---
 
