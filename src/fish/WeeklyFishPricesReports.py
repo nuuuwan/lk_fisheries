@@ -41,6 +41,8 @@ class WeeklyFishPricesReports(CommonMixin, AbstractExcelSpreadsheet):
     @staticmethod
     def parse_date_str_from_description(description: str) -> str:
         x = CommonMixin.clean_description_for_time(description)
+        if not x:
+            return None
         tokens = x.split(" ")
         month_and_year_str = " ".join(tokens[-2:]).strip()
         week_num = x[0]
