@@ -47,6 +47,8 @@ class CommonMixin:
                     continue
 
                 date_str = cls.parse_date_str_from_description(description)
+                if not date_str:
+                    continue
                 num = cls.clean_description(description)
                 lang = "en"
                 url_doc = "https://www.fisheries.gov.lk" + href
