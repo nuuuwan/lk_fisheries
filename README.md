@@ -4,7 +4,7 @@
 
 ## 001 🐟 Fisheries Annual Statistics Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_19:35:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_20:08:43-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports)
 
@@ -22,7 +22,7 @@ Annual Fisheries Statistics Reports of the Ministry of Fisheries,Aquatic and Oce
 
 ## 002 🐟 Fisheries Monthly Fish Production Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_19:35:29-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_20:08:42-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports)
 
@@ -40,7 +40,7 @@ Monthly Fish Production Reports of the Ministry of Fisheries,Aquatic and Ocean R
 
 ## 003 🐟 Fisheries Weekly Fish Prices Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_19:35:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_20:08:48-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports)
 
@@ -58,7 +58,7 @@ Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resour
 
 ## 004 🐟 Fisheries Monthly Export Import Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_19:35:17-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--05_20:09:03-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports)
 
