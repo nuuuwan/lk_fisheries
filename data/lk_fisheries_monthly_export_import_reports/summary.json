@@ -2,7 +2,7 @@
   "doc_class_label": "lk_fisheries_monthly_export_import_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2025-11-05 05:46:48",
+  "time_updated": "2025-11-05 06:19:37",
   "n_docs": 65,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 11,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 4,
   "date_str_min": "2019-01-01",
   "date_str_max": "2025-09-01",
-  "dataset_size": 51406963,
+  "dataset_size": 51406966,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
