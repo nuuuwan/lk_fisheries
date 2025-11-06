@@ -2,7 +2,7 @@
   "doc_class_label": "lk_fisheries_annual_statistics_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Annual Fisheries Statistics Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2025-11-07 02:35:05",
+  "time_updated": "2025-11-07 03:04:36",
   "n_docs": 9,
   "n_docs_with_pdfs": 9,
   "n_docs_with_text": 9,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 0,
   "date_str_min": "2017-01-01",
   "date_str_max": "2024-01-01",
-  "dataset_size": 15058679,
+  "dataset_size": 15058682,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
