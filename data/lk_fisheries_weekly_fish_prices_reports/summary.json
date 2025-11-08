@@ -2,7 +2,7 @@
   "doc_class_label": "lk_fisheries_weekly_fish_prices_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2025-11-08 21:04:10",
+  "time_updated": "2025-11-08 21:35:01",
   "n_docs": 251,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 251,
@@ -10,7 +10,7 @@
   "n_docs_with_tabular": 246,
   "date_str_min": "2019-01-01",
   "date_str_max": "2025-10-15",
-  "dataset_size": 22236937,
+  "dataset_size": 22236934,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
