@@ -1,6 +1,6 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Monthly Export Import Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_02:07:18-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--11--22_02:35:08-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports)
 
