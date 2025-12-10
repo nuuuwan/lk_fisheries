@@ -2,15 +2,15 @@
   "doc_class_label": "lk_fisheries_weekly_fish_prices_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2025-12-10 15:35:45",
-  "n_docs": 253,
+  "time_updated": "2025-12-10 16:11:43",
+  "n_docs": 257,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 253,
-  "n_docs_with_excel": 253,
-  "n_docs_with_tabular": 248,
+  "n_docs_with_text": 257,
+  "n_docs_with_excel": 257,
+  "n_docs_with_tabular": 252,
   "date_str_min": "2019-01-01",
-  "date_str_max": "2025-10-22",
-  "dataset_size": 22351915,
+  "date_str_max": "2025-11-22",
+  "dataset_size": 22517178,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_fisheries_weekly_fish_prices_reports",
-    "doc_id": "2025-10-22-4th-week-of-october-202-8cc9b373",
-    "num": "4th-week-of-october-2025excel-24-kb",
-    "date_str": "2025-10-22",
-    "description": "4th Week of\u00a0October 2025[EXCEL - 24 KB]",
+    "doc_id": "2025-11-22-4th-week-of-november-20-de5b27b2",
+    "num": "4th-week-of-november-2025excel-24-kb",
+    "date_str": "2025-11-22",
+    "description": "4th Week of November 2025[EXCEL - 24 KB]",
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
     "lang": "en",
-    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Oct_4th_week_2025.xlsx"
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Nov4th_week_2025.xlsx"
   }
 }
