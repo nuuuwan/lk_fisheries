@@ -1,12 +1,12 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Monthly Fish Production Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_15:09:31-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--12--12_15:35:25-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports)
 
 Monthly Fish Production Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**98** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports) (**9.1 MB**), from **2019-01-01** to **2025-10-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**98** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports) (**9.2 MB**), from **2019-01-01** to **2025-10-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
 - In **JSON**, **TXT**, **Excel**, **Tables** & **🤗 Hugging Face**
 
