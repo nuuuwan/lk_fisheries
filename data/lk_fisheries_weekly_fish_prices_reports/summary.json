@@ -2,15 +2,15 @@
   "doc_class_label": "lk_fisheries_weekly_fish_prices_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2025-12-19 11:37:00",
-  "n_docs": 258,
+  "time_updated": "2025-12-19 12:14:52",
+  "n_docs": 259,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 258,
-  "n_docs_with_excel": 258,
-  "n_docs_with_tabular": 253,
+  "n_docs_with_text": 259,
+  "n_docs_with_excel": 259,
+  "n_docs_with_tabular": 254,
   "date_str_min": "2019-01-01",
-  "date_str_max": "2025-12-01",
-  "dataset_size": 22693294,
+  "date_str_max": "2025-12-08",
+  "dataset_size": 22736088,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_fisheries_weekly_fish_prices_reports",
-    "doc_id": "2025-12-01-1st-week-of-december-20-712ff61e",
-    "num": "1st-week-of-december-2025excel-24-kb",
-    "date_str": "2025-12-01",
-    "description": "1st Week of\u00a0December 2025[EXCEL - 24 KB]",
+    "doc_id": "2025-12-08-2nd-week-of-december-20-7db0ceef",
+    "num": "2nd-week-of-december-2025excel-25kb",
+    "date_str": "2025-12-08",
+    "description": "2nd Week of\u00a0December 2025[EXCEL - 25KB]",
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
     "lang": "en",
-    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Dec_1st_week_2025.xlsx"
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Dec_2nd_week_2025.xlsx"
   }
 }
