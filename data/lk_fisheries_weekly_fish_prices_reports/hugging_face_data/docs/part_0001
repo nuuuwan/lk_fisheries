@@ -2588,5 +2588,25 @@
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
     "lang": "en",
     "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Dec_2nd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-12-15-3rd-week-of-december-20-549f2d03",
+    "num": "3rd-week-of-december-2025excel-24-kb",
+    "date_str": "2025-12-15",
+    "description": "3rd Week of\u00a0December 2025[EXCEL - 24 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Dec_3rd_week_2025.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2025-12-22-4th-week-of-december-20-4f19caa2",
+    "num": "4th-week-of-december-2025excel-25kb",
+    "date_str": "2025-12-22",
+    "description": "4th Week of\u00a0December 2025[EXCEL - 25KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Dec_4th_week_2025.xlsx"
   }
 ]
