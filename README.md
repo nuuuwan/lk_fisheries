@@ -1,10 +1,10 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **435** documents (**98.7 MB**).
+**4** datasets, with **440** documents (**99.7 MB**).
 
 ## 001 🐟 Fisheries Annual Statistics Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_06:54:01-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_18:45:10-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports)
 
@@ -22,7 +22,7 @@ Annual Fisheries Statistics Reports of the Ministry of Fisheries,Aquatic and Oce
 
 ## 002 🐟 Fisheries Monthly Fish Production Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_06:53:47-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_18:45:12-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports)
 
@@ -40,13 +40,13 @@ Monthly Fish Production Reports of the Ministry of Fisheries,Aquatic and Ocean R
 
 ## 003 🐟 Fisheries Weekly Fish Prices Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_06:53:51-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_18:45:11-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports)
 
 Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**263** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports) (**23.0 MB**), from **2019-01-01** to **2026-01-08**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**266** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports) (**23.2 MB**), from **2019-01-01** to **2026-01-15**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
 - In **JSON**, **TXT**, **Excel**, **Tables** (98%) & **🤗 Hugging Face**
 
@@ -58,15 +58,15 @@ Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resour
 
 ## 004 🐟 Fisheries Monthly Export Import Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_06:54:13-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--27_18:45:21-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports)
 
 Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**65** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports) (**51.4 MB**), from **2019-01-01** to **2025-09-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**67** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports) (**52.3 MB**), from **2019-01-01** to **2025-11-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
-- In **JSON**, **TXT** (17%), **Excel** (98%), **Tables** (6%) & **🤗 Hugging Face** (17%)
+- In **JSON**, **TXT** (16%), **Excel** (99%), **Tables** (6%) & **🤗 Hugging Face** (16%)
 
 - In **English**
 
