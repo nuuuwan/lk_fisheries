@@ -2611,6 +2611,16 @@
   },
   {
     "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2026-01-01-1st-week-january-2026ex-4ed881ca",
+    "num": "1st-week-january-2026excel-23-kb",
+    "date_str": "2026-01-01",
+    "description": "1st Week\u00a0January 2026[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Jan_1st_week_2026.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
     "doc_id": "2026-01-01-1st-week-january-2026ex-f6ec5ba1",
     "num": "1st-week-january-2026excel-20-kb",
     "date_str": "2026-01-01",
@@ -2628,5 +2638,25 @@
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
     "lang": "en",
     "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Jan_2nd_week_2026.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2026-01-08-2nd-week-january-2026ex-8f49426d",
+    "num": "2nd-week-january-2026excel-23-kb",
+    "date_str": "2026-01-08",
+    "description": "2nd Week\u00a0January 2026[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Jan_2nd_week_2026.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2026-01-15-3rd-week-january-2026ex-81d9af45",
+    "num": "3rd-week-january-2026excel-23-kb",
+    "date_str": "2026-01-15",
+    "description": "3rd Week\u00a0January 2026[EXCEL - 23 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/Jan_3rd_week_2026.xlsx"
   }
 ]
