@@ -648,5 +648,25 @@
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
     "lang": "en",
     "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_SEPTEMBER_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-10-01-export-and-import-of-fi-d37d71ad",
+    "num": "export-and-import-of-fish-october-2025excel-426-kb",
+    "date_str": "2025-10-01",
+    "description": "Export and Import of Fish - October 2025[EXCEL - 426 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_OCTOBER_1.xls"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_export_import_reports",
+    "doc_id": "2025-11-01-export-and-import-of-fi-9f99c509",
+    "num": "export-and-import-of-fish-november-2025excel-427-kb",
+    "date_str": "2025-11-01",
+    "description": "Export and Import of Fish - November 2025[EXCEL - 427 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2025/EXPORT_and_IMPORT_REPORT_-_2025_NOVEMBER_1.xls"
   }
 ]
