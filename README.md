@@ -1,10 +1,10 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**4** datasets, with **440** documents (**99.8 MB**).
+**4** datasets, with **441** documents (**100.3 MB**).
 
 ## 001 🐟 Fisheries Annual Statistics Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_06:54:04-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_18:45:34-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports)
 
@@ -22,7 +22,7 @@ Annual Fisheries Statistics Reports of the Ministry of Fisheries,Aquatic and Oce
 
 ## 002 🐟 Fisheries Monthly Fish Production Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_06:54:24-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_18:45:35-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports)
 
@@ -40,7 +40,7 @@ Monthly Fish Production Reports of the Ministry of Fisheries,Aquatic and Ocean R
 
 ## 003 🐟 Fisheries Weekly Fish Prices Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_06:54:06-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_18:45:06-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports)
 
@@ -58,13 +58,13 @@ Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resour
 
 ## 004 🐟 Fisheries Monthly Export Import Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_06:54:05-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--28_18:45:26-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports)
 
 Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**67** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports) (**52.4 MB**), from **2019-01-01** to **2025-11-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**68** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports) (**52.8 MB**), from **2019-01-01** to **2025-12-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
 - In **JSON**, **TXT** (16%), **Excel** (99%), **Tables** (6%) & **🤗 Hugging Face** (16%)
 
