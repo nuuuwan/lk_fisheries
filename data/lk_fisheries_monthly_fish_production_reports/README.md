@@ -1,6 +1,6 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Monthly Fish Production Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--01--31_18:42:58-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--02--01_06:54:42-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports)
 
