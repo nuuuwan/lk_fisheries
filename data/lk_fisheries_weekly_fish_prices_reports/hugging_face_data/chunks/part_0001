@@ -12718,5 +12718,53 @@
     "md5": "235b9e54f0d6fb6b9ce7c19588be6a22",
     "chunk_size_bytes": 47,
     "chunk_text": "--- 01-Wholesale.csv ---\n\n--- 02-Retail.csv ---"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2026-01-22-4th-week-january-2026ex-53a3454a",
+    "num": "4th-week-january-2026excel-25-kb",
+    "date_str": "2026-01-22",
+    "description": "4th Week\u00a0January 2026[EXCEL - 25 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Jan_4th_week_2026.xlsx",
+    "chunk_id": "2026-01-22-4th-week-january-2026ex-53a3454a-0000",
+    "chunk_index": 0,
+    "language": "en",
+    "md5": "78d745688224f850ca7553eb63b21267",
+    "chunk_size_bytes": 24,
+    "chunk_text": "--- 01-Wholesale.csv ---"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2026-01-22-4th-week-january-2026ex-53a3454a",
+    "num": "4th-week-january-2026excel-25-kb",
+    "date_str": "2026-01-22",
+    "description": "4th Week\u00a0January 2026[EXCEL - 25 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Jan_4th_week_2026.xlsx",
+    "chunk_id": "2026-01-22-4th-week-january-2026ex-53a3454a-0001",
+    "chunk_index": 1,
+    "language": "en",
+    "md5": "235b9e54f0d6fb6b9ce7c19588be6a22",
+    "chunk_size_bytes": 47,
+    "chunk_text": "--- 01-Wholesale.csv ---\n\n--- 02-Retail.csv ---"
+  },
+  {
+    "doc_type": "lk_fisheries_weekly_fish_prices_reports",
+    "doc_id": "2026-01-22-4th-week-january-2026ex-53a3454a",
+    "num": "4th-week-january-2026excel-25-kb",
+    "date_str": "2026-01-22",
+    "description": "4th Week\u00a0January 2026[EXCEL - 25 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Jan_4th_week_2026.xlsx",
+    "chunk_id": "2026-01-22-4th-week-january-2026ex-53a3454a-0002",
+    "chunk_index": 2,
+    "language": "en",
+    "md5": "235b9e54f0d6fb6b9ce7c19588be6a22",
+    "chunk_size_bytes": 47,
+    "chunk_text": "--- 01-Wholesale.csv ---\n\n--- 02-Retail.csv ---"
   }
 ]
