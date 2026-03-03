@@ -2,15 +2,15 @@
   "doc_class_label": "lk_fisheries_monthly_fish_production_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Monthly Fish Production Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2026-03-03 06:54:51",
-  "n_docs": 98,
+  "time_updated": "2026-03-03 18:50:38",
+  "n_docs": 100,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 98,
-  "n_docs_with_excel": 98,
-  "n_docs_with_tabular": 98,
+  "n_docs_with_text": 100,
+  "n_docs_with_excel": 100,
+  "n_docs_with_tabular": 100,
   "date_str_min": "2019-01-01",
   "date_str_max": "2025-10-01",
-  "dataset_size": 9163025,
+  "dataset_size": 9315943,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
-    "doc_id": "2025-10-01-fish-production-october-103b5b3e",
-    "num": "fish-production-october-2025-provisional-excel-47-kb",
+    "doc_id": "2025-10-01-fish-production-october-7b1c24f8",
+    "num": "fish-production-october-2025-excel-47-kb",
     "date_str": "2025-10-01",
-    "description": "Fish Production - October 2025 PROVISIONAL\u00a0[EXCEL - 47 KB]",
+    "description": "Fish Production - October 2025\u00a0\u00a0[EXCEL - 47 KB]",
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
     "lang": "en",
-    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/10_Monthly_Fish_Production_-_OCTOBER_2025_PROVISIONAL.xlsx"
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/10_Monthly_Fish_Production_-_OCTOBER_2025_FINAL.xlsx"
   }
 }

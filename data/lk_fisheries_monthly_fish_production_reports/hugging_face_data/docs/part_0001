@@ -951,6 +951,16 @@
   },
   {
     "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-08-01-fish-production-august--2f936d95",
+    "num": "fish-production-august-2025-excel-47-kb",
+    "date_str": "2025-08-01",
+    "description": "Fish Production - August 2025\u00a0\u00a0[EXCEL - 47 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/8_Monthly_Fish_Production_-_AUGUST_2025_FINAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
     "doc_id": "2025-08-01-fish-production-august--3ceddbae",
     "num": "fish-production-august-2025-provisional-excel-47-kb",
     "date_str": "2025-08-01",
@@ -978,5 +988,15 @@
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
     "lang": "en",
     "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2025/10_Monthly_Fish_Production_-_OCTOBER_2025_PROVISIONAL.xlsx"
+  },
+  {
+    "doc_type": "lk_fisheries_monthly_fish_production_reports",
+    "doc_id": "2025-10-01-fish-production-october-7b1c24f8",
+    "num": "fish-production-october-2025-excel-47-kb",
+    "date_str": "2025-10-01",
+    "description": "Fish Production - October 2025\u00a0\u00a0[EXCEL - 47 KB]",
+    "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/monthly-fish-production",
+    "lang": "en",
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/production/2025/10_Monthly_Fish_Production_-_OCTOBER_2025_FINAL.xlsx"
   }
 ]
