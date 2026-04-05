@@ -1,6 +1,6 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Annual Statistics Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--04_18:49:12-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--05_06:55:07-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports)
 
