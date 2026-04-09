@@ -2,15 +2,15 @@
   "doc_class_label": "lk_fisheries_monthly_export_import_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2026-04-09 06:54:32",
-  "n_docs": 69,
+  "time_updated": "2026-04-09 18:54:10",
+  "n_docs": 70,
   "n_docs_with_pdfs": 0,
   "n_docs_with_text": 11,
-  "n_docs_with_excel": 68,
+  "n_docs_with_excel": 69,
   "n_docs_with_tabular": 4,
   "date_str_min": "2019-01-01",
-  "date_str_max": "2026-01-01",
-  "dataset_size": 54155726,
+  "date_str_max": "2026-02-01",
+  "dataset_size": 54647128,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_fisheries_monthly_export_import_reports",
-    "doc_id": "2026-01-01-export-and-import-of-fi-1654cb71",
-    "num": "export-and-import-of-fish-january-2026excel-840-kb",
-    "date_str": "2026-01-01",
-    "description": "Export and Import of Fish - January 2026[EXCEL - 840 KB]",
+    "doc_id": "2026-02-01-export-and-import-of-fi-ebaa4e46",
+    "num": "export-and-import-of-fish-february-2026excel-479-kb",
+    "date_str": "2026-02-01",
+    "description": "Export and Import of Fish - February 2026[EXCEL - 479 KB]",
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/export-import",
     "lang": "en",
-    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2026/EXPORT_and_IMPORT_REPORT_-_2026_JANUARYNew.xls"
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/export/2026/EXPORT_and_IMPORT_REPORT_-_2026_FEB_1.xls"
   }
 }
