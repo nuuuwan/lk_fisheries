@@ -1,12 +1,12 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Weekly Fish Prices Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--09_06:54:45-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--09_18:53:46-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports)
 
 Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**274** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports) (**23.7 MB**), from **2019-01-01** to **2026-03-15**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**275** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports) (**23.8 MB**), from **2019-01-01** to **2026-03-22**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
 - In **JSON**, **TXT**, **Excel**, **Tables** (98%) & **🤗 Hugging Face**
 
@@ -19,13 +19,13 @@ Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resour
 ```json
 {
     "doc_type": "lk_fisheries_weekly_fish_prices_reports",
-    "doc_id": "2026-03-15-3rd-week-march-2026excel-22-kb",
-    "num": "3rd-week-march-2026excel-22-kb",
-    "date_str": "2026-03-15",
-    "description": "3rd Week\u00a0March 2026[EXCEL - 22 KB]",
+    "doc_id": "2026-03-22-4th-week-march-2026excel-22-kb",
+    "num": "4th-week-march-2026excel-22-kb",
+    "date_str": "2026-03-22",
+    "description": "4th Week\u00a0March 2026[EXCEL - 22 KB]",
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
     "lang": "en",
-    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Mar_3rd_week_2026.xlsx"
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Mar_4th_week_2026.xlsx"
 }
 ```
 
@@ -40,6 +40,7 @@ Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resour
 
 ## 🆕 20 Latest documents
 
+- 2026-03-22 | `4th-week-march-2026excel-22-kb` | 4th Week March 2026[EXCEL - 22 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/2020s/2026/2026-03-22-4th-week-march-2026excel-22-kb)
 - 2026-03-15 | `3rd-week-march-2026excel-22-kb` | 3rd Week March 2026[EXCEL - 22 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/2020s/2026/2026-03-15-3rd-week-march-2026excel-22-kb)
 - 2026-03-08 | `2nd-week-march-2026excel-22-kb` | 2nd Week March 2026[EXCEL - 22 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/2020s/2026/2026-03-08-2nd-week-march-2026excel-22-kb)
 - 2026-03-01 | `1st-week-march-2026excel-20-kb` | 1st Week March 2026[EXCEL - 20 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/2020s/2026/2026-03-01-1st-week-march-2026excel-20-kb)
@@ -59,7 +60,6 @@ Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resour
 - 2025-12-01 | `1st-week-of-december-2025excel-24-kb` | 1st Week of December 2025[EXCEL - 24 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/2020s/2025/2025-12-01-1st-week-of-december-20-712ff61e)
 - 2025-11-22 | `4th-week-of-november-2025excel-24-kb` | 4th Week of November 2025[EXCEL - 24 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/2020s/2025/2025-11-22-4th-week-of-november-20-de5b27b2)
 - 2025-11-15 | `3rd-week-of-november-2025excel-24-kb` | 3rd Week of November 2025[EXCEL - 24 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/2020s/2025/2025-11-15-3rd-week-of-november-20-74264d5a)
-- 2025-11-08 | `2nd-week-of-november-2025excel-24-kb` | 2nd Week of November 2025[EXCEL - 24 KB] | [data](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/2020s/2025/2025-11-08-2nd-week-of-november-20-85d65933)
 
 ---
 
