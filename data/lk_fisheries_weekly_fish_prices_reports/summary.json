@@ -2,15 +2,15 @@
   "doc_class_label": "lk_fisheries_weekly_fish_prices_reports",
   "doc_class_emoji": "\ud83d\udc1f",
   "doc_class_description": "Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka",
-  "time_updated": "2026-04-28 06:55:59",
-  "n_docs": 276,
+  "time_updated": "2026-04-28 18:55:53",
+  "n_docs": 277,
   "n_docs_with_pdfs": 0,
-  "n_docs_with_text": 276,
-  "n_docs_with_excel": 276,
-  "n_docs_with_tabular": 271,
+  "n_docs_with_text": 277,
+  "n_docs_with_excel": 277,
+  "n_docs_with_tabular": 272,
   "date_str_min": "2019-01-01",
-  "date_str_max": "2026-04-01",
-  "dataset_size": 23860595,
+  "date_str_max": "2026-04-08",
+  "dataset_size": 23898655,
   "url_source_list": [
     "https://www.fisheries.gov.lk"
   ],
@@ -21,12 +21,12 @@
   ],
   "latest_doc_d": {
     "doc_type": "lk_fisheries_weekly_fish_prices_reports",
-    "doc_id": "2026-04-01-1st-week-april-2026excel-20-kb",
-    "num": "1st-week-april-2026excel-20-kb",
-    "date_str": "2026-04-01",
-    "description": "1st Week\u00a0April 2026[EXCEL - 20 KB]",
+    "doc_id": "2026-04-08-2nd-week-april-2026excel-23-kb",
+    "num": "2nd-week-april-2026excel-23-kb",
+    "date_str": "2026-04-08",
+    "description": "2nd Week\u00a0April 2026[EXCEL - 23 KB]",
     "url_metadata": "https://www.fisheries.gov.lk/web/index.php/en/statistics/weekly-fish-prices",
     "lang": "en",
-    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/Apr_1st_week_2026.xlsx"
+    "url_excel": "https://www.fisheries.gov.lk/web/images/statistics/weekly/2026/April_2nd_week_2026.xlsx"
   }
 }
