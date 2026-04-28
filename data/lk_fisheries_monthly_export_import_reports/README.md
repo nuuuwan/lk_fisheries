@@ -1,12 +1,12 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Monthly Export Import Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--27_18:54:36-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--04--28_06:56:38-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports)
 
 Monthly Fish Export and Import Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
 
-- [**71** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports) (**55.4 MB**), from **2019-01-01** to **2026-02-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+- [**71** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports) (**55.7 MB**), from **2019-01-01** to **2026-02-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
 
 - In **JSON**, **TXT** (15%), **Excel** (99%), **Tables** (6%) & **🤗 Hugging Face** (15%)
 
