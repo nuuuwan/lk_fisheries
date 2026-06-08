@@ -1,6 +1,6 @@
 # 🐟#SriLanka 🇱🇰 Fisheries Weekly Fish Prices Reports `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_07:09:07-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--06--08_19:51:04-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports)
 
