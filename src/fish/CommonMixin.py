@@ -37,8 +37,10 @@ class CommonMixin:
         for ul in soup.find_all("ul", class_=cls.get_ul_class()):
             for li in ul.find_all("li"):
                 a = li.find("a")
+                if not a:
+                    continue
                 href = a.get("href")
-
+                
                 description = a.text.strip()
                 if "Final Report" in description:  # HACK
                     continue
