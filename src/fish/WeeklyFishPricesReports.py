@@ -30,8 +30,7 @@ class WeeklyFishPricesReports(CommonMixin, AbstractExcelSpreadsheet):
     @classmethod
     def get_url_metadata(cls):
         return (
-            "https://www.fisheries.gov.lk"
-            + "/web/index.php/en/statistics/weekly-fish-prices"
+            "https://www.fisheries.gov.lk/?page_id=8544"
         )
 
     @classmethod

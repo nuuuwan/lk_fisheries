@@ -30,8 +30,7 @@ class AnnualStatisticsReports(CommonMixin, AbstractPDFDoc):
     @classmethod
     def get_url_metadata(cls):
         return (
-            "https://www.fisheries.gov.lk"
-            + "/web/index.php/en/statistics/annual-statistics-reports"
+            "https://www.fisheries.gov.lk/?page_id=8546"
         )
 
     @classmethod

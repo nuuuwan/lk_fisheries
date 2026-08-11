@@ -30,8 +30,7 @@ class MonthlyExportImportReports(CommonMixin, AbstractExcelSpreadsheet):
     @classmethod
     def get_url_metadata(cls):
         return (
-            "https://www.fisheries.gov.lk"
-            + "/web/index.php/en/statistics/export-import"
+            "https://www.fisheries.gov.lk/?page_id=8547"
         )
 
     @classmethod
