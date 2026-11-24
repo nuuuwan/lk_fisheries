@@ -1,10 +1,28 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**3** datasets, with **450** documents (**89.3 MB**).
+**4** datasets, with **459** documents (**104.3 MB**).
 
-## 001 🐟 Fisheries Monthly Fish Production Reports
+## 001 🐟 Fisheries Annual Statistics Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--23_18:26:37-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_06:26:49-green)
+
+[https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports)
+
+Annual Fisheries Statistics Reports of the Ministry of Fisheries,Aquatic and Ocean Resources, Sri Lanka
+
+- [**9** documents](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports) (**15.1 MB**), from **2017-01-01** to **2024-01-01**, scraped from [https://www.fisheries.gov.lk](https://www.fisheries.gov.lk)
+
+- In **JSON**, **PDF**, **TXT** & **🤗 Hugging Face**
+
+- In **English**
+
+- 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
+
+![Chart](https://raw.githubusercontent.com/nuuuwan/lk_fisheries/refs/heads/data_lk_fisheries_annual_statistics_reports/data/lk_fisheries_annual_statistics_reports/docs_by_year_and_lang.png)
+
+## 002 🐟 Fisheries Monthly Fish Production Reports
+
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_06:26:49-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports)
 
@@ -20,9 +38,9 @@ Monthly Fish Production Reports of the Ministry of Fisheries,Aquatic and Ocean R
 
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_fisheries/refs/heads/data_lk_fisheries_monthly_fish_production_reports/data/lk_fisheries_monthly_fish_production_reports/docs_by_year_and_lang.png)
 
-## 002 🐟 Fisheries Weekly Fish Prices Reports
+## 003 🐟 Fisheries Weekly Fish Prices Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--23_18:26:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_06:28:58-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports)
 
@@ -38,9 +56,9 @@ Weekly Fish Prices Reports of the Ministry of Fisheries,Aquatic and Ocean Resour
 
 ![Chart](https://raw.githubusercontent.com/nuuuwan/lk_fisheries/refs/heads/data_lk_fisheries_weekly_fish_prices_reports/data/lk_fisheries_weekly_fish_prices_reports/docs_by_year_and_lang.png)
 
-## 003 🐟 Fisheries Monthly Export Import Reports
+## 004 🐟 Fisheries Monthly Export Import Reports
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--23_18:27:10-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--24_06:27:04-green)
 
 [https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports](https://github.com/nuuuwan/lk_fisheries/tree/data_lk_fisheries_monthly_export_import_reports/data/lk_fisheries_monthly_export_import_reports)
 
